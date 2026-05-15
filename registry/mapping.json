@@ -2,12 +2,136 @@
   "entities": [
     {
       "canonical_name": "Arjuna",
-      "aliases": ["Dhananjaya", "Partha", "Savyasachi", "Son of Kunti"],
+      "aliases": [
+        "Dhananjaya",
+        "Partha",
+        "Savyasachi",
+        "Son of Kunti",
+        "Phalguni"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Krishna",
+      "aliases": [
+        "Vasudeva",
+        "Kesava",
+        "Narayana",
+        "Govinda",
+        "Madhava"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Drona",
+      "aliases": [
+        "Dronacharya",
+        "Bharadwaja",
+        "Son of Bharadwaja"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Karna",
+      "aliases": [
+        "Radheya",
+        "Vaikartana",
+        "Sutaputra",
+        "Angaraja"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Bhima",
+      "aliases": [
+        "Bhimasena",
+        "Vrikodara",
+        "Son of Pandu"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Yudhishthira",
+      "aliases": [
+        "Dharmaraja",
+        "Ajatashatru",
+        "Dharmaputra"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Duryodhana",
+      "aliases": [
+        "Suyodhana"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Indra",
+      "aliases": [
+        "Sakra",
+        "Purandara",
+        "Vritrahan"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Draupadi",
+      "aliases": [
+        "Panchali",
+        "Yajnaseni",
+        "Krishnaa"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Nakula",
+      "aliases": [
+        "Son of Madri"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Dhrishtadyumna",
+      "aliases": [
+        "Drafta"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Sanjaya",
+      "aliases": [
+        "Gavalgana"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Pandu",
+      "aliases": [],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Yama",
+      "aliases": [
+        "Dharmadeva"
+      ],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Ganga",
+      "aliases": [
+        "Bhagirathi"
+      ],
       "culture": "Indo-Aryan"
     },
     {
       "canonical_name": "Yahweh",
-      "aliases": ["Elohim", "Adonai", "Jehovah", "The Lord"],
+      "aliases": [
+        "Elohim",
+        "Adonai",
+        "Jehovah",
+        "The Lord"
+      ],
       "culture": "Levant"
     }
   ]
