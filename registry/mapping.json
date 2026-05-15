@@ -1,0 +1,14 @@
+{
+  "entities": [
+    {
+      "canonical_name": "Arjuna",
+      "aliases": ["Dhananjaya", "Partha", "Savyasachi", "Son of Kunti"],
+      "culture": "Indo-Aryan"
+    },
+    {
+      "canonical_name": "Yahweh",
+      "aliases": ["Elohim", "Adonai", "Jehovah", "The Lord"],
+      "culture": "Levant"
+    }
+  ]
+}
