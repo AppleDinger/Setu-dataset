@@ -1,0 +1,1582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-21">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="DegreeCentrality" type="double" />
+      <attribute id="1" title="BetweennessCentrality" type="double" />
+      <attribute id="2" title="EigenvectorCentrality" type="double" />
+      <attribute id="3" title="CommunityID" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Jacob" label="Jacob">
+        <attvalues>
+          <attvalue for="0" value="0.6910569105691058" />
+          <attvalue for="1" value="0.05644345436428603" />
+          <attvalue for="2" value="0.5897907347407979" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Moses" label="Moses">
+        <attvalues>
+          <attvalue for="0" value="0.3008130081300813" />
+          <attvalue for="1" value="0.023426185081522943" />
+          <attvalue for="2" value="0.37784207650332813" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Aaron" label="Aaron">
+        <attvalues>
+          <attvalue for="0" value="0.1626016260162602" />
+          <attvalue for="1" value="0.015247234439557509" />
+          <attvalue for="2" value="0.16482252285605867" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jehudah" label="Jehudah">
+        <attvalues>
+          <attvalue for="0" value="0.2682926829268293" />
+          <attvalue for="1" value="0.02207783553245369" />
+          <attvalue for="2" value="0.1943237481344874" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="David" label="David">
+        <attvalues>
+          <attvalue for="0" value="0.2764227642276423" />
+          <attvalue for="1" value="0.04100581989426451" />
+          <attvalue for="2" value="0.1585146677648056" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Joseph" label="Joseph">
+        <attvalues>
+          <attvalue for="0" value="0.2520325203252033" />
+          <attvalue for="1" value="0.08348882669154561" />
+          <attvalue for="2" value="0.11572691494232572" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Abraham" label="Abraham">
+        <attvalues>
+          <attvalue for="0" value="0.3008130081300813" />
+          <attvalue for="1" value="0.09855962376953979" />
+          <attvalue for="2" value="0.13088214238365053" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Isaac" label="Isaac">
+        <attvalues>
+          <attvalue for="0" value="0.21138211382113822" />
+          <attvalue for="1" value="0.01773068550357635" />
+          <attvalue for="2" value="0.11574285594302608" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Edom" label="Edom">
+        <attvalues>
+          <attvalue for="0" value="0.21138211382113822" />
+          <attvalue for="1" value="0.045432937935936744" />
+          <attvalue for="2" value="0.09027004252264444" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Saul" label="Saul">
+        <attvalues>
+          <attvalue for="0" value="0.13821138211382114" />
+          <attvalue for="1" value="0.045912746012706014" />
+          <attvalue for="2" value="0.06120312338976532" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Pharaoh" label="Pharaoh">
+        <attvalues>
+          <attvalue for="0" value="0.1788617886178862" />
+          <attvalue for="1" value="0.05198365098405086" />
+          <attvalue for="2" value="0.10655865412063531" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Joshua" label="Joshua">
+        <attvalues>
+          <attvalue for="0" value="0.10569105691056911" />
+          <attvalue for="1" value="0.00801901461637567" />
+          <attvalue for="2" value="0.08960574414001926" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Solomon" label="Solomon">
+        <attvalues>
+          <attvalue for="0" value="0.12195121951219513" />
+          <attvalue for="1" value="0.012985916744413344" />
+          <attvalue for="2" value="0.059467783742980125" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Muhammad" label="Muhammad">
+        <attvalues>
+          <attvalue for="0" value="0.24390243902439027" />
+          <attvalue for="1" value="0.10745035319205647" />
+          <attvalue for="2" value="0.07155895773725542" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Benjamin" label="Benjamin">
+        <attvalues>
+          <attvalue for="0" value="0.1788617886178862" />
+          <attvalue for="1" value="0.007696921231507397" />
+          <attvalue for="2" value="0.052403988603188345" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sarah" label="Sarah">
+        <attvalues>
+          <attvalue for="0" value="0.11382113821138212" />
+          <attvalue for="1" value="0.011779732551423876" />
+          <attvalue for="2" value="0.015631142266034192" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Antipater" label="Antipater">
+        <attvalues>
+          <attvalue for="0" value="0.10569105691056911" />
+          <attvalue for="1" value="0.005197920831667333" />
+          <attvalue for="2" value="9.531187560798265e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Herod" label="Herod">
+        <attvalues>
+          <attvalue for="0" value="0.24390243902439027" />
+          <attvalue for="1" value="0.04432671375894087" />
+          <attvalue for="2" value="0.0018020646165230428" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Rachel" label="Rachel">
+        <attvalues>
+          <attvalue for="0" value="0.10569105691056911" />
+          <attvalue for="1" value="0.00537562752676707" />
+          <attvalue for="2" value="0.030880135780571364" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Samuel" label="Samuel">
+        <attvalues>
+          <attvalue for="0" value="0.13821138211382114" />
+          <attvalue for="1" value="0.010906748411746412" />
+          <attvalue for="2" value="0.04392442821898369" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Augustus Caesar" label="Augustus Caesar">
+        <attvalues>
+          <attvalue for="0" value="0.13821138211382114" />
+          <attvalue for="1" value="0.036956328579679225" />
+          <attvalue for="2" value="8.279229379558892e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Jeremiah" label="Jeremiah">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="6.66400106624017e-05" />
+          <attvalue for="2" value="0.036675571620912166" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Mark Antony" label="Mark Antony">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.0009418454840286108" />
+          <attvalue for="2" value="0.0005888259553318215" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Ephraim" label="Ephraim">
+        <attvalues>
+          <attvalue for="0" value="0.12195121951219513" />
+          <attvalue for="1" value="0.03368874672353281" />
+          <attvalue for="2" value="0.04266336809592176" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Joab" label="Joab">
+        <attvalues>
+          <attvalue for="0" value="0.10569105691056911" />
+          <attvalue for="1" value="0.008321115998045225" />
+          <attvalue for="2" value="0.020969731182650275" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Reuben" label="Reuben">
+        <attvalues>
+          <attvalue for="0" value="0.13008130081300814" />
+          <attvalue for="1" value="0.008163401306144208" />
+          <attvalue for="2" value="0.039365496363953756" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Elazar" label="Elazar">
+        <attvalues>
+          <attvalue for="0" value="0.1626016260162602" />
+          <attvalue for="1" value="0.09861134911114919" />
+          <attvalue for="2" value="0.04620793880150943" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Haman" label="Haman">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.015662623839353153" />
+          <attvalue for="2" value="0.010550323609441373" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mordecai" label="Mordecai">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.014258740948065219" />
+          <attvalue for="2" value="0.010143437082756177" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="Adam" label="Adam">
+        <attvalues>
+          <attvalue for="0" value="0.11382113821138212" />
+          <attvalue for="1" value="0.0015327202452352392" />
+          <attvalue for="2" value="0.016218724519998715" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Eve" label="Eve">
+        <attvalues>
+          <attvalue for="0" value="0.11382113821138212" />
+          <attvalue for="1" value="0.027726687102936604" />
+          <attvalue for="2" value="0.004601729880011824" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Alexander" label="Alexander">
+        <attvalues>
+          <attvalue for="0" value="0.15447154471544716" />
+          <attvalue for="1" value="0.007021635790128393" />
+          <attvalue for="2" value="0.0001739540255931903" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Levi" label="Levi">
+        <attvalues>
+          <attvalue for="0" value="0.1626016260162602" />
+          <attvalue for="1" value="0.009353084163160132" />
+          <attvalue for="2" value="0.04506333078464167" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jonathan" label="Jonathan">
+        <attvalues>
+          <attvalue for="0" value="0.13008130081300814" />
+          <attvalue for="1" value="0.008258918654760316" />
+          <attvalue for="2" value="0.018511992228557726" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Absalom" label="Absalom">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.0061619796525834115" />
+          <attvalue for="2" value="0.012702321177418518" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Moab" label="Moab">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.006397441023590564" />
+          <attvalue for="2" value="0.03871529066702653" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Archelaus" label="Archelaus">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="5.89318508256945e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Balaam" label="Balaam">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.0036207739126571594" />
+          <attvalue for="2" value="0.030489556307661834" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jeroboam" label="Jeroboam">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.001188413523479497" />
+          <attvalue for="2" value="0.03316988556792352" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Peter" label="Peter">
+        <attvalues>
+          <attvalue for="0" value="0.0894308943089431" />
+          <attvalue for="1" value="0.04962745060705877" />
+          <attvalue for="2" value="0.006866251031880093" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Balak" label="Balak">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.016090397875716318" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jethro" label="Jethro">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.02104713670087521" />
+          <attvalue for="2" value="0.020817523613103846" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ishmael" label="Ishmael">
+        <attvalues>
+          <attvalue for="0" value="0.0894308943089431" />
+          <attvalue for="1" value="0.0038540139499755655" />
+          <attvalue for="2" value="0.015957584084427556" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Esther" label="Esther">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.023477275756364123" />
+          <attvalue for="2" value="0.005458575100086933" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hezekiah" label="Hezekiah">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.026067350837442806" />
+          <attvalue for="2" value="0.0245127897068907" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Leah" label="Leah">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.029061708649873383" />
+          <attvalue for="2" value="0.017595747726384756" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Agrippa" label="Agrippa">
+        <attvalues>
+          <attvalue for="0" value="0.13821138211382114" />
+          <attvalue for="1" value="0.027257985694611048" />
+          <attvalue for="2" value="6.193688193784208e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Elijah" label="Elijah">
+        <attvalues>
+          <attvalue for="0" value="0.13821138211382114" />
+          <attvalue for="1" value="0.03349993335998934" />
+          <attvalue for="2" value="0.029940939306090625" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Pheroras" label="Pheroras">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0003267396661041535" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Ahab" label="Ahab">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.0001332800213248034" />
+          <attvalue for="2" value="0.027248167972797513" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Miriam" label="Miriam">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.004555955395619531" />
+          <attvalue for="2" value="0.01890218499427945" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Rebekah" label="Rebekah">
+        <attvalues>
+          <attvalue for="0" value="0.0894308943089431" />
+          <attvalue for="1" value="0.0001332800213248034" />
+          <attvalue for="2" value="0.01827597484336648" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Potiphar" label="Potiphar">
+        <attvalues>
+          <attvalue for="0" value="0.04065040650406505" />
+          <attvalue for="1" value="0.0011151095117508552" />
+          <attvalue for="2" value="0.005508964585306804" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ahasuerus" label="Ahasuerus">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.0055133502154693665" />
+          <attvalue for="2" value="0.00354920625614029" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dan" label="Dan">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0191734534894149" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Simon" label="Simon">
+        <attvalues>
+          <attvalue for="0" value="0.17073170731707318" />
+          <attvalue for="1" value="0.08826691545603985" />
+          <attvalue for="2" value="0.01716475011200181" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Elisha" label="Elisha">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.01077346839042161" />
+          <attvalue for="2" value="0.013540606870574038" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Korah" label="Korah">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.02516104669243414" />
+          <attvalue for="2" value="0.017572863467553084" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Satan" label="Satan">
+        <attvalues>
+          <attvalue for="0" value="0.0894308943089431" />
+          <attvalue for="1" value="0.005848771602470124" />
+          <attvalue for="2" value="0.014898533379425495" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Jesse" label="Jesse">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.009929361588697852" />
+          <attvalue for="2" value="0.009764828294098051" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Mary" label="Mary">
+        <attvalues>
+          <attvalue for="0" value="0.0894308943089431" />
+          <attvalue for="1" value="0.08931221162328717" />
+          <attvalue for="2" value="0.006280470109079173" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Abel" label="Abel">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.008683193389310942" />
+          <attvalue for="2" value="0.0031161314156643734" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Cain" label="Cain">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.007774667910613532" />
+          <attvalue for="2" value="0.0031611209581971743" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Noah" label="Noah">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.007174907814651916" />
+          <attvalue for="2" value="0.01774729876142913" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Simeon" label="Simeon">
+        <attvalues>
+          <attvalue for="0" value="0.11382113821138212" />
+          <attvalue for="1" value="0.028190945843884666" />
+          <attvalue for="2" value="0.01641805924697414" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ammon" label="Ammon">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.016067405679547613" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Shem" label="Shem">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.0015771469190101735" />
+          <attvalue for="2" value="0.00930390773710728" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Claudius" label="Claudius">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.01629348260695722" />
+          <attvalue for="2" value="9.17813813998772e-06" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Job" label="Job">
+        <attvalues>
+          <attvalue for="0" value="0.10569105691056911" />
+          <attvalue for="1" value="0.02492336398773824" />
+          <attvalue for="2" value="0.01445351896165503" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Caligula" label="Caligula">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.004398240703718513" />
+          <attvalue for="2" value="1.604551372182716e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Nathan" label="Nathan">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.004169443333777601" />
+          <attvalue for="2" value="0.008561674050503733" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Paul" label="Paul">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.010523727017129655" />
+          <attvalue for="2" value="0.007228487477696168" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Michael" label="Michael">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.006308587676040694" />
+          <attvalue for="2" value="0.01647225251674546" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Demetrius" label="Demetrius">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.003218712514994002" />
+          <attvalue for="2" value="0.000260866016192595" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Cleopatra" label="Cleopatra">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.04472433248922654" />
+          <attvalue for="2" value="0.00021658115859675992" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Phinehas" label="Phinehas">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.009896041583366653" />
+          <attvalue for="2" value="0.01602452676334185" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Philip" label="Philip">
+        <attvalues>
+          <attvalue for="0" value="0.13008130081300814" />
+          <attvalue for="1" value="0.05310320316317917" />
+          <attvalue for="2" value="0.0002711945425729262" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Malichus" label="Malichus">
+        <attvalues>
+          <attvalue for="0" value="0.04065040650406505" />
+          <attvalue for="1" value="0.0021324803411968546" />
+          <attvalue for="2" value="2.1606306702402048e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Eliezer" label="Eliezer">
+        <attvalues>
+          <attvalue for="0" value="0.13008130081300814" />
+          <attvalue for="1" value="0.050899640143942444" />
+          <attvalue for="2" value="0.012039768912498182" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Jehu" label="Jehu">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.001710426940334977" />
+          <attvalue for="2" value="0.01196968804710558" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Joash" label="Joash">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.0029988004798080763" />
+          <attvalue for="2" value="0.011798097670598306" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Rehoboam" label="Rehoboam">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.010480897944256513" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Haran" label="Haran">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.006353014349815629" />
+          <attvalue for="2" value="0.008050456581516433" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Tiberius" label="Tiberius">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1.4344573078364423e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Judas" label="Judas">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.01164867386378782" />
+          <attvalue for="2" value="0.0005764499643904996" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Gabriel" label="Gabriel">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.005020214136567596" />
+          <attvalue for="2" value="0.009793173294779947" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Nebuchadnezzar" label="Nebuchadnezzar">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.01869474432449243" />
+          <attvalue for="2" value="0.011289345615321099" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Antiochus" label="Antiochus">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.045267607242817164" />
+          <attvalue for="2" value="0.00024407799309019682" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Gideon" label="Gideon">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.018494824292505218" />
+          <attvalue for="2" value="0.009318204096835099" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Bernice" label="Bernice">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.01464969567728464" />
+          <attvalue for="2" value="1.5048587797870621e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Gaius Cassius Longinus" label="Gaius Cassius Longinus">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1.5573126028313387e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Alexandra" label="Alexandra">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.007796881247500999" />
+          <attvalue for="2" value="0.000251781890081037" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Herod Antipas" label="Herod Antipas">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.003509707228219824" />
+          <attvalue for="2" value="1.1794115713445974e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Aulus Gabinius" label="Aulus Gabinius">
+        <attvalues>
+          <attvalue for="0" value="0.04065040650406505" />
+          <attvalue for="1" value="0.008863121418099426" />
+          <attvalue for="2" value="5.8336814273553695e-06" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Enoch" label="Enoch">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.028073215158381085" />
+          <attvalue for="2" value="0.0056118844533559545" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Flavius Josephus" label="Flavius Josephus">
+        <attvalues>
+          <attvalue for="0" value="0.04065040650406505" />
+          <attvalue for="1" value="0.01897018970189702" />
+          <attvalue for="2" value="6.738426452700375e-05" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Titus" label="Titus">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.008652094717668486" />
+          <attvalue for="2" value="0.001258367307132264" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Antonia" label="Antonia">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.01758407748011906" />
+          <attvalue for="2" value="2.3413224986535432e-05" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Johanan" label="Johanan">
+        <attvalues>
+          <attvalue for="0" value="0.04065040650406505" />
+          <attvalue for="1" value="0.019016837709360697" />
+          <attvalue for="2" value="0.001688501572299161" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Hyya" label="Hyya">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.018081656226398332" />
+          <attvalue for="2" value="0.002976638636389485" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Samson" label="Samson">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.017744013505708832" />
+          <attvalue for="2" value="0.00488853400671841" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Jose" label="Jose">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.044964236527611195" />
+          <attvalue for="2" value="0.0020816277422608083" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Rabba" label="Rabba">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.0009707228219823182" />
+          <attvalue for="2" value="0.0023071934329890317" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Matthias" label="Matthias">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.01788173619441113" />
+          <attvalue for="2" value="0.0003624429440709698" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="Nahman" label="Nahman">
+        <attvalues>
+          <attvalue for="0" value="0.0813008130081301" />
+          <attvalue for="1" value="0.006501843706961659" />
+          <attvalue for="2" value="0.00441507395594721" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ruth" label="Ruth">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.012423919321160427" />
+          <attvalue for="2" value="0.0038726776462162256" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Akiva" label="Akiva">
+        <attvalues>
+          <attvalue for="0" value="0.07317073170731708" />
+          <attvalue for="1" value="0.008720956062019634" />
+          <attvalue for="2" value="0.004762677620973978" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Huna" label="Huna">
+        <attvalues>
+          <attvalue for="0" value="0.0975609756097561" />
+          <attvalue for="1" value="0.017686258829801415" />
+          <attvalue for="2" value="0.0034241779113221016" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Marcus Antonius Felix" label="Marcus Antonius Felix">
+        <attvalues>
+          <attvalue for="0" value="0.06504065040650407" />
+          <attvalue for="1" value="0.07190901417210895" />
+          <attvalue for="2" value="0.00010436362842271124" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="Hisda" label="Hisda">
+        <attvalues>
+          <attvalue for="0" value="0.05691056910569106" />
+          <attvalue for="1" value="0.014030260911508411" />
+          <attvalue for="2" value="0.0024360494292384707" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="Darius" label="Darius">
+        <attvalues>
+          <attvalue for="0" value="0.04878048780487805" />
+          <attvalue for="1" value="0.02353280909858279" />
+          <attvalue for="2" value="0.0025051560542854985" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Meir" label="Meir">
+        <attvalues>
+          <attvalue for="0" value="0.04065040650406505" />
+          <attvalue for="1" value="0.003109867164245413" />
+          <attvalue for="2" value="0.0023816979616576796" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Jacob" target="Moses" id="0" weight="767.0" />
+      <edge source="Jacob" target="Jehudah" id="1" weight="354.0" />
+      <edge source="Jacob" target="Joseph" id="2" weight="300.0" />
+      <edge source="Jacob" target="David" id="3" weight="265.0" />
+      <edge source="Jacob" target="Edom" id="4" weight="260.0" />
+      <edge source="Jacob" target="Isaac" id="5" weight="260.0" />
+      <edge source="Jacob" target="Abraham" id="6" weight="243.0" />
+      <edge source="Jacob" target="Aaron" id="7" weight="194.0" />
+      <edge source="Jacob" target="Joshua" id="8" weight="152.0" />
+      <edge source="Jacob" target="Pharaoh" id="9" weight="148.0" />
+      <edge source="Jacob" target="Benjamin" id="10" weight="114.0" />
+      <edge source="Jacob" target="Muhammad" id="11" weight="114.0" />
+      <edge source="Jacob" target="Rachel" id="12" weight="101.0" />
+      <edge source="Jacob" target="Solomon" id="13" weight="96.0" />
+      <edge source="Jacob" target="Ephraim" id="14" weight="86.0" />
+      <edge source="Jacob" target="Reuben" id="15" weight="82.0" />
+      <edge source="Jacob" target="Saul" id="16" weight="81.0" />
+      <edge source="Jacob" target="Levi" id="17" weight="73.0" />
+      <edge source="Jacob" target="Moab" id="18" weight="71.0" />
+      <edge source="Jacob" target="Balaam" id="19" weight="69.0" />
+      <edge source="Jacob" target="Jeroboam" id="20" weight="69.0" />
+      <edge source="Jacob" target="Elazar" id="21" weight="61.0" />
+      <edge source="Jacob" target="Leah" id="22" weight="56.0" />
+      <edge source="Jacob" target="Elijah" id="23" weight="54.0" />
+      <edge source="Jacob" target="Ahab" id="24" weight="52.0" />
+      <edge source="Jacob" target="Samuel" id="25" weight="49.0" />
+      <edge source="Jacob" target="Dan" id="26" weight="45.0" />
+      <edge source="Jacob" target="Rebekah" id="27" weight="42.0" />
+      <edge source="Jacob" target="Balak" id="28" weight="41.0" />
+      <edge source="Jacob" target="Simon" id="29" weight="41.0" />
+      <edge source="Jacob" target="Jeremiah" id="30" weight="36.0" />
+      <edge source="Jacob" target="Joab" id="31" weight="34.0" />
+      <edge source="Jacob" target="Mordecai" id="32" weight="34.0" />
+      <edge source="Jacob" target="Haman" id="33" weight="29.0" />
+      <edge source="Jacob" target="Jethro" id="34" weight="29.0" />
+      <edge source="Jacob" target="Michael" id="35" weight="29.0" />
+      <edge source="Jacob" target="Phinehas" id="36" weight="29.0" />
+      <edge source="Jacob" target="Simeon" id="37" weight="29.0" />
+      <edge source="Jacob" target="Hezekiah" id="38" weight="28.0" />
+      <edge source="Jacob" target="Elisha" id="39" weight="27.0" />
+      <edge source="Jacob" target="Jonathan" id="40" weight="27.0" />
+      <edge source="Jacob" target="Ammon" id="41" weight="26.0" />
+      <edge source="Jacob" target="Ishmael" id="42" weight="25.0" />
+      <edge source="Jacob" target="Jehu" id="43" weight="25.0" />
+      <edge source="Jacob" target="Joash" id="44" weight="25.0" />
+      <edge source="Jacob" target="Noah" id="45" weight="22.0" />
+      <edge source="Jacob" target="Adam" id="46" weight="21.0" />
+      <edge source="Jacob" target="Nebuchadnezzar" id="47" weight="21.0" />
+      <edge source="Jacob" target="Absalom" id="48" weight="20.0" />
+      <edge source="Jacob" target="Korah" id="49" weight="20.0" />
+      <edge source="Jacob" target="Miriam" id="50" weight="20.0" />
+      <edge source="Jacob" target="Gideon" id="51" weight="19.0" />
+      <edge source="Jacob" target="Haran" id="52" weight="18.0" />
+      <edge source="Jacob" target="Shem" id="53" weight="18.0" />
+      <edge source="Jacob" target="Eliezer" id="54" weight="16.0" />
+      <edge source="Jacob" target="Rehoboam" id="55" weight="16.0" />
+      <edge source="Jacob" target="Esther" id="56" weight="15.0" />
+      <edge source="Jacob" target="Gabriel" id="57" weight="15.0" />
+      <edge source="Jacob" target="Job" id="58" weight="15.0" />
+      <edge source="Jacob" target="Ahasuerus" id="59" weight="12.0" />
+      <edge source="Jacob" target="Jesse" id="60" weight="12.0" />
+      <edge source="Jacob" target="Sarah" id="61" weight="12.0" />
+      <edge source="Jacob" target="Samson" id="62" weight="11.0" />
+      <edge source="Jacob" target="Satan" id="63" weight="10.0" />
+      <edge source="Jacob" target="Potiphar" id="64" weight="9.0" />
+      <edge source="Jacob" target="Akiva" id="65" weight="8.0" />
+      <edge source="Jacob" target="Nathan" id="66" weight="8.0" />
+      <edge source="Jacob" target="Ruth" id="67" weight="8.0" />
+      <edge source="Jacob" target="Mary" id="68" weight="7.0" />
+      <edge source="Jacob" target="Nahman" id="69" weight="7.0" />
+      <edge source="Jacob" target="Enoch" id="70" weight="5.0" />
+      <edge source="Jacob" target="Hyya" id="71" weight="5.0" />
+      <edge source="Jacob" target="Abel" id="72" weight="4.0" />
+      <edge source="Jacob" target="Eve" id="73" weight="4.0" />
+      <edge source="Jacob" target="Huna" id="74" weight="4.0" />
+      <edge source="Jacob" target="Jose" id="75" weight="4.0" />
+      <edge source="Jacob" target="Meir" id="76" weight="4.0" />
+      <edge source="Jacob" target="Peter" id="77" weight="4.0" />
+      <edge source="Jacob" target="Rabba" id="78" weight="4.0" />
+      <edge source="Jacob" target="Darius" id="79" weight="3.0" />
+      <edge source="Jacob" target="Hisda" id="80" weight="3.0" />
+      <edge source="Moses" target="Aaron" id="81" weight="411.0" />
+      <edge source="Moses" target="Pharaoh" id="82" weight="185.0" />
+      <edge source="Moses" target="Joshua" id="83" weight="137.0" />
+      <edge source="Moses" target="Abraham" id="84" weight="80.0" />
+      <edge source="Moses" target="Elazar" id="85" weight="80.0" />
+      <edge source="Moses" target="Jethro" id="86" weight="59.0" />
+      <edge source="Moses" target="Isaac" id="87" weight="53.0" />
+      <edge source="Moses" target="Miriam" id="88" weight="49.0" />
+      <edge source="Moses" target="Joseph" id="89" weight="47.0" />
+      <edge source="Moses" target="Levi" id="90" weight="46.0" />
+      <edge source="Moses" target="Muhammad" id="91" weight="46.0" />
+      <edge source="Moses" target="Jehudah" id="92" weight="41.0" />
+      <edge source="Moses" target="Korah" id="93" weight="41.0" />
+      <edge source="Moses" target="Balaam" id="94" weight="31.0" />
+      <edge source="Moses" target="Reuben" id="95" weight="29.0" />
+      <edge source="Moses" target="Moab" id="96" weight="25.0" />
+      <edge source="Moses" target="Phinehas" id="97" weight="25.0" />
+      <edge source="Moses" target="Elijah" id="98" weight="22.0" />
+      <edge source="Moses" target="Samuel" id="99" weight="21.0" />
+      <edge source="Moses" target="Noah" id="100" weight="19.0" />
+      <edge source="Moses" target="Gabriel" id="101" weight="13.0" />
+      <edge source="Moses" target="Eliezer" id="102" weight="12.0" />
+      <edge source="Moses" target="Michael" id="103" weight="12.0" />
+      <edge source="Moses" target="Haman" id="104" weight="11.0" />
+      <edge source="Moses" target="Satan" id="105" weight="11.0" />
+      <edge source="Moses" target="Job" id="106" weight="10.0" />
+      <edge source="Moses" target="Ishmael" id="107" weight="7.0" />
+      <edge source="Moses" target="Jeremiah" id="108" weight="7.0" />
+      <edge source="Moses" target="Balak" id="109" weight="6.0" />
+      <edge source="Moses" target="Esther" id="110" weight="5.0" />
+      <edge source="Moses" target="Mordecai" id="111" weight="5.0" />
+      <edge source="Moses" target="Peter" id="112" weight="5.0" />
+      <edge source="Moses" target="Akiva" id="113" weight="4.0" />
+      <edge source="Moses" target="Mary" id="114" weight="4.0" />
+      <edge source="Moses" target="Enoch" id="115" weight="3.0" />
+      <edge source="Aaron" target="Elazar" id="116" weight="57.0" />
+      <edge source="Aaron" target="Pharaoh" id="117" weight="55.0" />
+      <edge source="Aaron" target="Miriam" id="118" weight="38.0" />
+      <edge source="Aaron" target="Korah" id="119" weight="22.0" />
+      <edge source="Aaron" target="Levi" id="120" weight="21.0" />
+      <edge source="Aaron" target="Abraham" id="121" weight="17.0" />
+      <edge source="Aaron" target="David" id="122" weight="14.0" />
+      <edge source="Aaron" target="Isaac" id="123" weight="13.0" />
+      <edge source="Aaron" target="Phinehas" id="124" weight="13.0" />
+      <edge source="Aaron" target="Edom" id="125" weight="9.0" />
+      <edge source="Aaron" target="Balaam" id="126" weight="8.0" />
+      <edge source="Aaron" target="Jethro" id="127" weight="8.0" />
+      <edge source="Aaron" target="Elijah" id="128" weight="6.0" />
+      <edge source="Aaron" target="Benjamin" id="129" weight="5.0" />
+      <edge source="Aaron" target="Adam" id="130" weight="4.0" />
+      <edge source="Aaron" target="Job" id="131" weight="4.0" />
+      <edge source="Aaron" target="Gabriel" id="132" weight="3.0" />
+      <edge source="Jehudah" target="David" id="133" weight="100.0" />
+      <edge source="Jehudah" target="Benjamin" id="134" weight="82.0" />
+      <edge source="Jehudah" target="Joseph" id="135" weight="74.0" />
+      <edge source="Jehudah" target="Ephraim" id="136" weight="51.0" />
+      <edge source="Jehudah" target="Levi" id="137" weight="48.0" />
+      <edge source="Jehudah" target="Reuben" id="138" weight="47.0" />
+      <edge source="Jehudah" target="Jeremiah" id="139" weight="42.0" />
+      <edge source="Jehudah" target="Hezekiah" id="140" weight="37.0" />
+      <edge source="Jehudah" target="Simeon" id="141" weight="35.0" />
+      <edge source="Jehudah" target="Jeroboam" id="142" weight="34.0" />
+      <edge source="Jehudah" target="Saul" id="143" weight="26.0" />
+      <edge source="Jehudah" target="Solomon" id="144" weight="26.0" />
+      <edge source="Jehudah" target="Ahab" id="145" weight="25.0" />
+      <edge source="Jehudah" target="Edom" id="146" weight="25.0" />
+      <edge source="Jehudah" target="Dan" id="147" weight="24.0" />
+      <edge source="Jehudah" target="Joash" id="148" weight="21.0" />
+      <edge source="Jehudah" target="Moab" id="149" weight="18.0" />
+      <edge source="Jehudah" target="Nebuchadnezzar" id="150" weight="18.0" />
+      <edge source="Jehudah" target="Rehoboam" id="151" weight="16.0" />
+      <edge source="Jehudah" target="Jehu" id="152" weight="14.0" />
+      <edge source="Jehudah" target="Joshua" id="153" weight="13.0" />
+      <edge source="Jehudah" target="Joab" id="154" weight="8.0" />
+      <edge source="Jehudah" target="Elisha" id="155" weight="6.0" />
+      <edge source="Jehudah" target="Ishmael" id="156" weight="6.0" />
+      <edge source="Jehudah" target="Jesse" id="157" weight="5.0" />
+      <edge source="Jehudah" target="Leah" id="158" weight="5.0" />
+      <edge source="Jehudah" target="Samson" id="159" weight="5.0" />
+      <edge source="Jehudah" target="Johanan" id="160" weight="4.0" />
+      <edge source="Jehudah" target="Nathan" id="161" weight="3.0" />
+      <edge source="Jehudah" target="Potiphar" id="162" weight="3.0" />
+      <edge source="David" target="Saul" id="163" weight="229.0" />
+      <edge source="David" target="Solomon" id="164" weight="137.0" />
+      <edge source="David" target="Joab" id="165" weight="83.0" />
+      <edge source="David" target="Absalom" id="166" weight="71.0" />
+      <edge source="David" target="Jonathan" id="167" weight="68.0" />
+      <edge source="David" target="Samuel" id="168" weight="58.0" />
+      <edge source="David" target="Muhammad" id="169" weight="50.0" />
+      <edge source="David" target="Jesse" id="170" weight="36.0" />
+      <edge source="David" target="Jeroboam" id="171" weight="32.0" />
+      <edge source="David" target="Nathan" id="172" weight="30.0" />
+      <edge source="David" target="Rehoboam" id="173" weight="21.0" />
+      <edge source="David" target="Abraham" id="174" weight="20.0" />
+      <edge source="David" target="Ammon" id="175" weight="19.0" />
+      <edge source="David" target="Benjamin" id="176" weight="18.0" />
+      <edge source="David" target="Ahab" id="177" weight="15.0" />
+      <edge source="David" target="Hezekiah" id="178" weight="14.0" />
+      <edge source="David" target="Ephraim" id="179" weight="13.0" />
+      <edge source="David" target="Elazar" id="180" weight="11.0" />
+      <edge source="David" target="Isaac" id="181" weight="10.0" />
+      <edge source="David" target="Ruth" id="182" weight="10.0" />
+      <edge source="David" target="Elijah" id="183" weight="7.0" />
+      <edge source="David" target="Joash" id="184" weight="7.0" />
+      <edge source="David" target="Edom" id="185" weight="5.0" />
+      <edge source="David" target="Mary" id="186" weight="5.0" />
+      <edge source="David" target="Nebuchadnezzar" id="187" weight="5.0" />
+      <edge source="David" target="Samson" id="188" weight="4.0" />
+      <edge source="David" target="Eliezer" id="189" weight="3.0" />
+      <edge source="David" target="Esther" id="190" weight="3.0" />
+      <edge source="David" target="Haman" id="191" weight="3.0" />
+      <edge source="Joseph" target="Pharaoh" id="192" weight="124.0" />
+      <edge source="Joseph" target="Benjamin" id="193" weight="87.0" />
+      <edge source="Joseph" target="Ephraim" id="194" weight="49.0" />
+      <edge source="Joseph" target="Reuben" id="195" weight="48.0" />
+      <edge source="Joseph" target="Potiphar" id="196" weight="47.0" />
+      <edge source="Joseph" target="Simon" id="197" weight="43.0" />
+      <edge source="Joseph" target="Abraham" id="198" weight="41.0" />
+      <edge source="Joseph" target="Levi" id="199" weight="37.0" />
+      <edge source="Joseph" target="Herod" id="200" weight="33.0" />
+      <edge source="Joseph" target="Edom" id="201" weight="30.0" />
+      <edge source="Joseph" target="Rachel" id="202" weight="30.0" />
+      <edge source="Joseph" target="Dan" id="203" weight="16.0" />
+      <edge source="Joseph" target="Joshua" id="204" weight="14.0" />
+      <edge source="Joseph" target="Simeon" id="205" weight="14.0" />
+      <edge source="Joseph" target="Mark Antony" id="206" weight="11.0" />
+      <edge source="Joseph" target="Leah" id="207" weight="10.0" />
+      <edge source="Joseph" target="Gabriel" id="208" weight="6.0" />
+      <edge source="Joseph" target="Jeroboam" id="209" weight="6.0" />
+      <edge source="Joseph" target="Mary" id="210" weight="6.0" />
+      <edge source="Joseph" target="Pheroras" id="211" weight="6.0" />
+      <edge source="Joseph" target="Alexandra" id="212" weight="5.0" />
+      <edge source="Joseph" target="Ahasuerus" id="213" weight="4.0" />
+      <edge source="Joseph" target="Cleopatra" id="214" weight="4.0" />
+      <edge source="Joseph" target="Esther" id="215" weight="4.0" />
+      <edge source="Joseph" target="Korah" id="216" weight="4.0" />
+      <edge source="Joseph" target="Matthias" id="217" weight="4.0" />
+      <edge source="Joseph" target="Gideon" id="218" weight="3.0" />
+      <edge source="Abraham" target="Isaac" id="219" weight="290.0" />
+      <edge source="Abraham" target="Sarah" id="220" weight="113.0" />
+      <edge source="Abraham" target="Ishmael" id="221" weight="57.0" />
+      <edge source="Abraham" target="Edom" id="222" weight="40.0" />
+      <edge source="Abraham" target="Noah" id="223" weight="35.0" />
+      <edge source="Abraham" target="Michael" id="224" weight="29.0" />
+      <edge source="Abraham" target="Rebekah" id="225" weight="26.0" />
+      <edge source="Abraham" target="Eliezer" id="226" weight="25.0" />
+      <edge source="Abraham" target="Shem" id="227" weight="25.0" />
+      <edge source="Abraham" target="Haran" id="228" weight="24.0" />
+      <edge source="Abraham" target="Pharaoh" id="229" weight="24.0" />
+      <edge source="Abraham" target="Adam" id="230" weight="22.0" />
+      <edge source="Abraham" target="Satan" id="231" weight="22.0" />
+      <edge source="Abraham" target="Job" id="232" weight="14.0" />
+      <edge source="Abraham" target="Eve" id="233" weight="9.0" />
+      <edge source="Abraham" target="Gabriel" id="234" weight="9.0" />
+      <edge source="Abraham" target="Jethro" id="235" weight="9.0" />
+      <edge source="Abraham" target="Benjamin" id="236" weight="8.0" />
+      <edge source="Abraham" target="Balaam" id="237" weight="7.0" />
+      <edge source="Abraham" target="Elijah" id="238" weight="7.0" />
+      <edge source="Abraham" target="Miriam" id="239" weight="6.0" />
+      <edge source="Abraham" target="Potiphar" id="240" weight="5.0" />
+      <edge source="Abraham" target="Dan" id="241" weight="4.0" />
+      <edge source="Abraham" target="Elazar" id="242" weight="4.0" />
+      <edge source="Abraham" target="Abel" id="243" weight="3.0" />
+      <edge source="Abraham" target="Enoch" id="244" weight="3.0" />
+      <edge source="Abraham" target="Haman" id="245" weight="3.0" />
+      <edge source="Abraham" target="Huna" id="246" weight="3.0" />
+      <edge source="Abraham" target="Leah" id="247" weight="3.0" />
+      <edge source="Abraham" target="Mary" id="248" weight="3.0" />
+      <edge source="Isaac" target="Edom" id="249" weight="91.0" />
+      <edge source="Isaac" target="Rebekah" id="250" weight="48.0" />
+      <edge source="Isaac" target="Sarah" id="251" weight="42.0" />
+      <edge source="Isaac" target="Ishmael" id="252" weight="36.0" />
+      <edge source="Isaac" target="Eliezer" id="253" weight="13.0" />
+      <edge source="Isaac" target="Satan" id="254" weight="13.0" />
+      <edge source="Isaac" target="Noah" id="255" weight="12.0" />
+      <edge source="Isaac" target="Shem" id="256" weight="11.0" />
+      <edge source="Isaac" target="Adam" id="257" weight="9.0" />
+      <edge source="Isaac" target="Michael" id="258" weight="9.0" />
+      <edge source="Isaac" target="Rachel" id="259" weight="9.0" />
+      <edge source="Isaac" target="Haran" id="260" weight="8.0" />
+      <edge source="Isaac" target="Job" id="261" weight="6.0" />
+      <edge source="Isaac" target="Eve" id="262" weight="5.0" />
+      <edge source="Isaac" target="Enoch" id="263" weight="4.0" />
+      <edge source="Isaac" target="Haman" id="264" weight="4.0" />
+      <edge source="Isaac" target="Jethro" id="265" weight="4.0" />
+      <edge source="Isaac" target="Leah" id="266" weight="4.0" />
+      <edge source="Isaac" target="Miriam" id="267" weight="4.0" />
+      <edge source="Edom" target="Rebekah" id="268" weight="32.0" />
+      <edge source="Edom" target="Moab" id="269" weight="21.0" />
+      <edge source="Edom" target="Ishmael" id="270" weight="19.0" />
+      <edge source="Edom" target="Leah" id="271" weight="11.0" />
+      <edge source="Edom" target="Rachel" id="272" weight="11.0" />
+      <edge source="Edom" target="Ammon" id="273" weight="9.0" />
+      <edge source="Edom" target="Haman" id="274" weight="8.0" />
+      <edge source="Edom" target="Haran" id="275" weight="8.0" />
+      <edge source="Edom" target="Mordecai" id="276" weight="8.0" />
+      <edge source="Edom" target="Job" id="277" weight="7.0" />
+      <edge source="Edom" target="Korah" id="278" weight="7.0" />
+      <edge source="Edom" target="Shem" id="279" weight="7.0" />
+      <edge source="Edom" target="Adam" id="280" weight="6.0" />
+      <edge source="Edom" target="Jethro" id="281" weight="6.0" />
+      <edge source="Edom" target="Balaam" id="282" weight="5.0" />
+      <edge source="Edom" target="Ephraim" id="283" weight="4.0" />
+      <edge source="Edom" target="Eliezer" id="284" weight="3.0" />
+      <edge source="Edom" target="Elisha" id="285" weight="3.0" />
+      <edge source="Saul" target="Samuel" id="286" weight="100.0" />
+      <edge source="Saul" target="Jonathan" id="287" weight="73.0" />
+      <edge source="Saul" target="Muhammad" id="288" weight="28.0" />
+      <edge source="Saul" target="Benjamin" id="289" weight="25.0" />
+      <edge source="Saul" target="Jesse" id="290" weight="19.0" />
+      <edge source="Saul" target="Absalom" id="291" weight="7.0" />
+      <edge source="Saul" target="Joab" id="292" weight="6.0" />
+      <edge source="Saul" target="Esther" id="293" weight="5.0" />
+      <edge source="Saul" target="Simeon" id="294" weight="5.0" />
+      <edge source="Saul" target="Samson" id="295" weight="4.0" />
+      <edge source="Saul" target="Rachel" id="296" weight="3.0" />
+      <edge source="Saul" target="Ruth" id="297" weight="3.0" />
+      <edge source="Saul" target="Simon" id="298" weight="3.0" />
+      <edge source="Pharaoh" target="Solomon" id="299" weight="18.0" />
+      <edge source="Pharaoh" target="Sarah" id="300" weight="15.0" />
+      <edge source="Pharaoh" target="Benjamin" id="301" weight="14.0" />
+      <edge source="Pharaoh" target="Potiphar" id="302" weight="14.0" />
+      <edge source="Pharaoh" target="Jethro" id="303" weight="11.0" />
+      <edge source="Pharaoh" target="Haman" id="304" weight="9.0" />
+      <edge source="Pharaoh" target="Miriam" id="305" weight="9.0" />
+      <edge source="Pharaoh" target="Gabriel" id="306" weight="8.0" />
+      <edge source="Pharaoh" target="Jeremiah" id="307" weight="7.0" />
+      <edge source="Pharaoh" target="Job" id="308" weight="7.0" />
+      <edge source="Pharaoh" target="Noah" id="309" weight="5.0" />
+      <edge source="Pharaoh" target="Korah" id="310" weight="4.0" />
+      <edge source="Pharaoh" target="Simon" id="311" weight="4.0" />
+      <edge source="Pharaoh" target="Hezekiah" id="312" weight="3.0" />
+      <edge source="Pharaoh" target="Mordecai" id="313" weight="3.0" />
+      <edge source="Pharaoh" target="Nebuchadnezzar" id="314" weight="3.0" />
+      <edge source="Joshua" target="Elazar" id="315" weight="30.0" />
+      <edge source="Joshua" target="Elijah" id="316" weight="16.0" />
+      <edge source="Joshua" target="Ephraim" id="317" weight="12.0" />
+      <edge source="Joshua" target="Muhammad" id="318" weight="12.0" />
+      <edge source="Joshua" target="Phinehas" id="319" weight="10.0" />
+      <edge source="Joshua" target="Levi" id="320" weight="9.0" />
+      <edge source="Joshua" target="Gideon" id="321" weight="4.0" />
+      <edge source="Joshua" target="Reuben" id="322" weight="4.0" />
+      <edge source="Solomon" target="Muhammad" id="323" weight="25.0" />
+      <edge source="Solomon" target="Jeroboam" id="324" weight="24.0" />
+      <edge source="Solomon" target="Joab" id="325" weight="24.0" />
+      <edge source="Solomon" target="Nathan" id="326" weight="21.0" />
+      <edge source="Solomon" target="Rehoboam" id="327" weight="19.0" />
+      <edge source="Solomon" target="Hezekiah" id="328" weight="5.0" />
+      <edge source="Solomon" target="Noah" id="329" weight="5.0" />
+      <edge source="Solomon" target="Nebuchadnezzar" id="330" weight="4.0" />
+      <edge source="Solomon" target="Jesse" id="331" weight="3.0" />
+      <edge source="Solomon" target="Joash" id="332" weight="3.0" />
+      <edge source="Muhammad" target="Jeremiah" id="333" weight="68.0" />
+      <edge source="Muhammad" target="Elijah" id="334" weight="53.0" />
+      <edge source="Muhammad" target="Elisha" id="335" weight="41.0" />
+      <edge source="Muhammad" target="Samuel" id="336" weight="40.0" />
+      <edge source="Muhammad" target="Ahab" id="337" weight="36.0" />
+      <edge source="Muhammad" target="Hezekiah" id="338" weight="31.0" />
+      <edge source="Muhammad" target="Jeroboam" id="339" weight="27.0" />
+      <edge source="Muhammad" target="Nathan" id="340" weight="24.0" />
+      <edge source="Muhammad" target="Nebuchadnezzar" id="341" weight="14.0" />
+      <edge source="Muhammad" target="Balaam" id="342" weight="13.0" />
+      <edge source="Muhammad" target="Jehu" id="343" weight="12.0" />
+      <edge source="Muhammad" target="Moab" id="344" weight="7.0" />
+      <edge source="Muhammad" target="Balak" id="345" weight="6.0" />
+      <edge source="Muhammad" target="Darius" id="346" weight="6.0" />
+      <edge source="Muhammad" target="Joab" id="347" weight="6.0" />
+      <edge source="Muhammad" target="Job" id="348" weight="5.0" />
+      <edge source="Muhammad" target="Jonathan" id="349" weight="5.0" />
+      <edge source="Muhammad" target="Rehoboam" id="350" weight="5.0" />
+      <edge source="Muhammad" target="Mary" id="351" weight="4.0" />
+      <edge source="Muhammad" target="Johanan" id="352" weight="3.0" />
+      <edge source="Muhammad" target="Marcus Antonius Felix" id="353" weight="3.0" />
+      <edge source="Muhammad" target="Mordecai" id="354" weight="3.0" />
+      <edge source="Benjamin" target="Ephraim" id="355" weight="25.0" />
+      <edge source="Benjamin" target="Dan" id="356" weight="21.0" />
+      <edge source="Benjamin" target="Reuben" id="357" weight="20.0" />
+      <edge source="Benjamin" target="Levi" id="358" weight="17.0" />
+      <edge source="Benjamin" target="Rachel" id="359" weight="17.0" />
+      <edge source="Benjamin" target="Simeon" id="360" weight="16.0" />
+      <edge source="Benjamin" target="Jonathan" id="361" weight="9.0" />
+      <edge source="Benjamin" target="Jeremiah" id="362" weight="7.0" />
+      <edge source="Benjamin" target="Joab" id="363" weight="6.0" />
+      <edge source="Benjamin" target="Mordecai" id="364" weight="6.0" />
+      <edge source="Benjamin" target="Haman" id="365" weight="5.0" />
+      <edge source="Benjamin" target="Rehoboam" id="366" weight="5.0" />
+      <edge source="Benjamin" target="Esther" id="367" weight="4.0" />
+      <edge source="Sarah" target="Ishmael" id="368" weight="15.0" />
+      <edge source="Sarah" target="Rebekah" id="369" weight="13.0" />
+      <edge source="Sarah" target="Haran" id="370" weight="8.0" />
+      <edge source="Sarah" target="Rachel" id="371" weight="8.0" />
+      <edge source="Sarah" target="Eve" id="372" weight="5.0" />
+      <edge source="Sarah" target="Michael" id="373" weight="5.0" />
+      <edge source="Sarah" target="Satan" id="374" weight="5.0" />
+      <edge source="Sarah" target="Shem" id="375" weight="5.0" />
+      <edge source="Sarah" target="Leah" id="376" weight="3.0" />
+      <edge source="Antipater" target="Herod" id="377" weight="113.0" />
+      <edge source="Antipater" target="Alexander" id="378" weight="49.0" />
+      <edge source="Antipater" target="Pheroras" id="379" weight="36.0" />
+      <edge source="Antipater" target="Augustus Caesar" id="380" weight="35.0" />
+      <edge source="Antipater" target="Archelaus" id="381" weight="22.0" />
+      <edge source="Antipater" target="Malichus" id="382" weight="20.0" />
+      <edge source="Antipater" target="Gaius Cassius Longinus" id="383" weight="13.0" />
+      <edge source="Antipater" target="Aulus Gabinius" id="384" weight="10.0" />
+      <edge source="Antipater" target="Philip" id="385" weight="10.0" />
+      <edge source="Antipater" target="Herod Antipas" id="386" weight="6.0" />
+      <edge source="Antipater" target="Agrippa" id="387" weight="5.0" />
+      <edge source="Antipater" target="Alexandra" id="388" weight="5.0" />
+      <edge source="Herod" target="Augustus Caesar" id="389" weight="97.0" />
+      <edge source="Herod" target="Mark Antony" id="390" weight="87.0" />
+      <edge source="Herod" target="Alexander" id="391" weight="76.0" />
+      <edge source="Herod" target="Archelaus" id="392" weight="69.0" />
+      <edge source="Herod" target="Agrippa" id="393" weight="54.0" />
+      <edge source="Herod" target="Pheroras" id="394" weight="54.0" />
+      <edge source="Herod" target="Philip" id="395" weight="27.0" />
+      <edge source="Herod" target="Malichus" id="396" weight="26.0" />
+      <edge source="Herod" target="Cleopatra" id="397" weight="24.0" />
+      <edge source="Herod" target="Gaius Cassius Longinus" id="398" weight="17.0" />
+      <edge source="Herod" target="Alexandra" id="399" weight="16.0" />
+      <edge source="Herod" target="Caligula" id="400" weight="16.0" />
+      <edge source="Herod" target="Tiberius" id="401" weight="16.0" />
+      <edge source="Herod" target="Herod Antipas" id="402" weight="13.0" />
+      <edge source="Herod" target="Antiochus" id="403" weight="9.0" />
+      <edge source="Herod" target="Claudius" id="404" weight="9.0" />
+      <edge source="Herod" target="Bernice" id="405" weight="7.0" />
+      <edge source="Herod" target="Judas" id="406" weight="7.0" />
+      <edge source="Herod" target="Marcus Antonius Felix" id="407" weight="6.0" />
+      <edge source="Herod" target="Antonia" id="408" weight="5.0" />
+      <edge source="Herod" target="Matthias" id="409" weight="5.0" />
+      <edge source="Herod" target="Titus" id="410" weight="5.0" />
+      <edge source="Herod" target="Peter" id="411" weight="4.0" />
+      <edge source="Herod" target="Aulus Gabinius" id="412" weight="3.0" />
+      <edge source="Herod" target="Mary" id="413" weight="3.0" />
+      <edge source="Rachel" target="Leah" id="414" weight="46.0" />
+      <edge source="Rachel" target="Rebekah" id="415" weight="12.0" />
+      <edge source="Rachel" target="Reuben" id="416" weight="10.0" />
+      <edge source="Rachel" target="Haran" id="417" weight="5.0" />
+      <edge source="Rachel" target="Simeon" id="418" weight="4.0" />
+      <edge source="Samuel" target="Elazar" id="419" weight="18.0" />
+      <edge source="Samuel" target="Nahman" id="420" weight="10.0" />
+      <edge source="Samuel" target="Jesse" id="421" weight="9.0" />
+      <edge source="Samuel" target="Levi" id="422" weight="9.0" />
+      <edge source="Samuel" target="Jose" id="423" weight="8.0" />
+      <edge source="Samuel" target="Rabba" id="424" weight="6.0" />
+      <edge source="Samuel" target="Huna" id="425" weight="5.0" />
+      <edge source="Samuel" target="Hyya" id="426" weight="5.0" />
+      <edge source="Samuel" target="Jonathan" id="427" weight="5.0" />
+      <edge source="Samuel" target="Samson" id="428" weight="3.0" />
+      <edge source="Samuel" target="Simeon" id="429" weight="3.0" />
+      <edge source="Augustus Caesar" target="Agrippa" id="430" weight="40.0" />
+      <edge source="Augustus Caesar" target="Archelaus" id="431" weight="30.0" />
+      <edge source="Augustus Caesar" target="Claudius" id="432" weight="23.0" />
+      <edge source="Augustus Caesar" target="Caligula" id="433" weight="22.0" />
+      <edge source="Augustus Caesar" target="Alexander" id="434" weight="20.0" />
+      <edge source="Augustus Caesar" target="Mark Antony" id="435" weight="18.0" />
+      <edge source="Augustus Caesar" target="Tiberius" id="436" weight="11.0" />
+      <edge source="Augustus Caesar" target="Philip" id="437" weight="9.0" />
+      <edge source="Augustus Caesar" target="Gaius Cassius Longinus" id="438" weight="6.0" />
+      <edge source="Augustus Caesar" target="Antonia" id="439" weight="5.0" />
+      <edge source="Augustus Caesar" target="Herod Antipas" id="440" weight="5.0" />
+      <edge source="Augustus Caesar" target="Pheroras" id="441" weight="5.0" />
+      <edge source="Augustus Caesar" target="Bernice" id="442" weight="3.0" />
+      <edge source="Augustus Caesar" target="Cleopatra" id="443" weight="3.0" />
+      <edge source="Augustus Caesar" target="Marcus Antonius Felix" id="444" weight="3.0" />
+      <edge source="Jeremiah" target="Nebuchadnezzar" id="445" weight="14.0" />
+      <edge source="Jeremiah" target="Jonathan" id="446" weight="7.0" />
+      <edge source="Jeremiah" target="Johanan" id="447" weight="5.0" />
+      <edge source="Mark Antony" target="Cleopatra" id="448" weight="29.0" />
+      <edge source="Mark Antony" target="Alexandra" id="449" weight="9.0" />
+      <edge source="Mark Antony" target="Aulus Gabinius" id="450" weight="9.0" />
+      <edge source="Mark Antony" target="Gaius Cassius Longinus" id="451" weight="9.0" />
+      <edge source="Mark Antony" target="Caligula" id="452" weight="6.0" />
+      <edge source="Mark Antony" target="Malichus" id="453" weight="6.0" />
+      <edge source="Ephraim" target="Reuben" id="454" weight="14.0" />
+      <edge source="Ephraim" target="Dan" id="455" weight="10.0" />
+      <edge source="Ephraim" target="Gideon" id="456" weight="7.0" />
+      <edge source="Ephraim" target="Jeroboam" id="457" weight="5.0" />
+      <edge source="Ephraim" target="Elazar" id="458" weight="4.0" />
+      <edge source="Ephraim" target="Absalom" id="459" weight="3.0" />
+      <edge source="Joab" target="Absalom" id="460" weight="32.0" />
+      <edge source="Joab" target="Ammon" id="461" weight="11.0" />
+      <edge source="Joab" target="Nathan" id="462" weight="7.0" />
+      <edge source="Joab" target="Abel" id="463" weight="4.0" />
+      <edge source="Joab" target="Jonathan" id="464" weight="4.0" />
+      <edge source="Reuben" target="Levi" id="465" weight="32.0" />
+      <edge source="Reuben" target="Simeon" id="466" weight="27.0" />
+      <edge source="Reuben" target="Simon" id="467" weight="22.0" />
+      <edge source="Reuben" target="Dan" id="468" weight="16.0" />
+      <edge source="Reuben" target="Leah" id="469" weight="10.0" />
+      <edge source="Reuben" target="Michael" id="470" weight="3.0" />
+      <edge source="Reuben" target="Phinehas" id="471" weight="3.0" />
+      <edge source="Elazar" target="Phinehas" id="472" weight="21.0" />
+      <edge source="Elazar" target="Akiva" id="473" weight="5.0" />
+      <edge source="Elazar" target="Huna" id="474" weight="5.0" />
+      <edge source="Elazar" target="Jose" id="475" weight="4.0" />
+      <edge source="Elazar" target="Korah" id="476" weight="4.0" />
+      <edge source="Elazar" target="Antiochus" id="477" weight="3.0" />
+      <edge source="Elazar" target="Hisda" id="478" weight="3.0" />
+      <edge source="Elazar" target="Hyya" id="479" weight="3.0" />
+      <edge source="Elazar" target="Miriam" id="480" weight="3.0" />
+      <edge source="Haman" target="Mordecai" id="481" weight="80.0" />
+      <edge source="Haman" target="Ahasuerus" id="482" weight="46.0" />
+      <edge source="Haman" target="Esther" id="483" weight="44.0" />
+      <edge source="Haman" target="Satan" id="484" weight="4.0" />
+      <edge source="Mordecai" target="Esther" id="485" weight="57.0" />
+      <edge source="Mordecai" target="Ahasuerus" id="486" weight="41.0" />
+      <edge source="Adam" target="Eve" id="487" weight="77.0" />
+      <edge source="Adam" target="Noah" id="488" weight="33.0" />
+      <edge source="Adam" target="Satan" id="489" weight="27.0" />
+      <edge source="Adam" target="Cain" id="490" weight="21.0" />
+      <edge source="Adam" target="Abel" id="491" weight="14.0" />
+      <edge source="Adam" target="Enoch" id="492" weight="12.0" />
+      <edge source="Adam" target="Michael" id="493" weight="8.0" />
+      <edge source="Adam" target="Shem" id="494" weight="7.0" />
+      <edge source="Eve" target="Abel" id="495" weight="6.0" />
+      <edge source="Eve" target="Cain" id="496" weight="6.0" />
+      <edge source="Eve" target="Satan" id="497" weight="6.0" />
+      <edge source="Eve" target="Michael" id="498" weight="5.0" />
+      <edge source="Eve" target="Eliezer" id="499" weight="4.0" />
+      <edge source="Eve" target="Hyya" id="500" weight="3.0" />
+      <edge source="Eve" target="Meir" id="501" weight="3.0" />
+      <edge source="Eve" target="Nahman" id="502" weight="3.0" />
+      <edge source="Alexander" target="Archelaus" id="503" weight="33.0" />
+      <edge source="Alexander" target="Demetrius" id="504" weight="29.0" />
+      <edge source="Alexander" target="Pheroras" id="505" weight="18.0" />
+      <edge source="Alexander" target="Antiochus" id="506" weight="15.0" />
+      <edge source="Alexander" target="Aulus Gabinius" id="507" weight="15.0" />
+      <edge source="Alexander" target="Jonathan" id="508" weight="13.0" />
+      <edge source="Alexander" target="Cleopatra" id="509" weight="11.0" />
+      <edge source="Alexander" target="Agrippa" id="510" weight="10.0" />
+      <edge source="Alexander" target="Alexandra" id="511" weight="9.0" />
+      <edge source="Alexander" target="Tiberius" id="512" weight="8.0" />
+      <edge source="Alexander" target="Caligula" id="513" weight="7.0" />
+      <edge source="Alexander" target="Darius" id="514" weight="6.0" />
+      <edge source="Alexander" target="Bernice" id="515" weight="5.0" />
+      <edge source="Alexander" target="Claudius" id="516" weight="3.0" />
+      <edge source="Levi" target="Simon" id="517" weight="38.0" />
+      <edge source="Levi" target="Simeon" id="518" weight="32.0" />
+      <edge source="Levi" target="Dan" id="519" weight="14.0" />
+      <edge source="Levi" target="Korah" id="520" weight="7.0" />
+      <edge source="Levi" target="Jose" id="521" weight="6.0" />
+      <edge source="Levi" target="Leah" id="522" weight="4.0" />
+      <edge source="Levi" target="Rabba" id="523" weight="4.0" />
+      <edge source="Levi" target="Enoch" id="524" weight="3.0" />
+      <edge source="Levi" target="Hisda" id="525" weight="3.0" />
+      <edge source="Levi" target="Miriam" id="526" weight="3.0" />
+      <edge source="Jonathan" target="Demetrius" id="527" weight="28.0" />
+      <edge source="Jonathan" target="Simon" id="528" weight="23.0" />
+      <edge source="Jonathan" target="Judas" id="529" weight="12.0" />
+      <edge source="Jonathan" target="Antiochus" id="530" weight="11.0" />
+      <edge source="Jonathan" target="Absalom" id="531" weight="8.0" />
+      <edge source="Jonathan" target="Jesse" id="532" weight="5.0" />
+      <edge source="Absalom" target="Samson" id="533" weight="3.0" />
+      <edge source="Moab" target="Ammon" id="534" weight="29.0" />
+      <edge source="Moab" target="Balaam" id="535" weight="21.0" />
+      <edge source="Moab" target="Balak" id="536" weight="19.0" />
+      <edge source="Moab" target="Elisha" id="537" weight="5.0" />
+      <edge source="Moab" target="Ruth" id="538" weight="5.0" />
+      <edge source="Moab" target="Simeon" id="539" weight="4.0" />
+      <edge source="Archelaus" target="Philip" id="540" weight="17.0" />
+      <edge source="Archelaus" target="Herod Antipas" id="541" weight="16.0" />
+      <edge source="Archelaus" target="Pheroras" id="542" weight="11.0" />
+      <edge source="Archelaus" target="Cleopatra" id="543" weight="3.0" />
+      <edge source="Balaam" target="Balak" id="544" weight="59.0" />
+      <edge source="Balaam" target="Phinehas" id="545" weight="6.0" />
+      <edge source="Balaam" target="Job" id="546" weight="4.0" />
+      <edge source="Balaam" target="Jethro" id="547" weight="3.0" />
+      <edge source="Jeroboam" target="Rehoboam" id="548" weight="25.0" />
+      <edge source="Jeroboam" target="Joash" id="549" weight="10.0" />
+      <edge source="Jeroboam" target="Ahab" id="550" weight="9.0" />
+      <edge source="Jeroboam" target="Jehu" id="551" weight="9.0" />
+      <edge source="Peter" target="Simon" id="552" weight="35.0" />
+      <edge source="Peter" target="Mary" id="553" weight="4.0" />
+      <edge source="Peter" target="Philip" id="554" weight="4.0" />
+      <edge source="Peter" target="Satan" id="555" weight="4.0" />
+      <edge source="Peter" target="Judas" id="556" weight="3.0" />
+      <edge source="Jethro" target="Korah" id="557" weight="5.0" />
+      <edge source="Jethro" target="Job" id="558" weight="3.0" />
+      <edge source="Ishmael" target="Johanan" id="559" weight="12.0" />
+      <edge source="Ishmael" target="Eliezer" id="560" weight="5.0" />
+      <edge source="Esther" target="Ahasuerus" id="561" weight="34.0" />
+      <edge source="Hezekiah" target="Ahab" id="562" weight="4.0" />
+      <edge source="Hezekiah" target="Elisha" id="563" weight="4.0" />
+      <edge source="Hezekiah" target="Elijah" id="564" weight="3.0" />
+      <edge source="Leah" target="Rebekah" id="565" weight="7.0" />
+      <edge source="Agrippa" target="Claudius" id="566" weight="32.0" />
+      <edge source="Agrippa" target="Caligula" id="567" weight="30.0" />
+      <edge source="Agrippa" target="Tiberius" id="568" weight="24.0" />
+      <edge source="Agrippa" target="Bernice" id="569" weight="17.0" />
+      <edge source="Agrippa" target="Antonia" id="570" weight="12.0" />
+      <edge source="Agrippa" target="Philip" id="571" weight="10.0" />
+      <edge source="Agrippa" target="Marcus Antonius Felix" id="572" weight="8.0" />
+      <edge source="Agrippa" target="Herod Antipas" id="573" weight="5.0" />
+      <edge source="Agrippa" target="Paul" id="574" weight="5.0" />
+      <edge source="Agrippa" target="Titus" id="575" weight="5.0" />
+      <edge source="Agrippa" target="Antiochus" id="576" weight="4.0" />
+      <edge source="Elijah" target="Ahab" id="577" weight="40.0" />
+      <edge source="Elijah" target="Elisha" id="578" weight="22.0" />
+      <edge source="Elijah" target="Eliezer" id="579" weight="6.0" />
+      <edge source="Elijah" target="Akiva" id="580" weight="4.0" />
+      <edge source="Elijah" target="Jehu" id="581" weight="4.0" />
+      <edge source="Elijah" target="Meir" id="582" weight="4.0" />
+      <edge source="Elijah" target="Huna" id="583" weight="3.0" />
+      <edge source="Elijah" target="Jose" id="584" weight="3.0" />
+      <edge source="Ahab" target="Jehu" id="585" weight="15.0" />
+      <edge source="Ahab" target="Elisha" id="586" weight="6.0" />
+      <edge source="Rebekah" target="Eliezer" id="587" weight="10.0" />
+      <edge source="Rebekah" target="Haran" id="588" weight="5.0" />
+      <edge source="Rebekah" target="Shem" id="589" weight="5.0" />
+      <edge source="Ahasuerus" target="Darius" id="590" weight="4.0" />
+      <edge source="Ahasuerus" target="Nebuchadnezzar" id="591" weight="4.0" />
+      <edge source="Dan" target="Samson" id="592" weight="7.0" />
+      <edge source="Simon" target="Judas" id="593" weight="24.0" />
+      <edge source="Simon" target="Antiochus" id="594" weight="13.0" />
+      <edge source="Simon" target="Titus" id="595" weight="13.0" />
+      <edge source="Simon" target="Matthias" id="596" weight="8.0" />
+      <edge source="Simon" target="Philip" id="597" weight="7.0" />
+      <edge source="Simon" target="Demetrius" id="598" weight="6.0" />
+      <edge source="Simon" target="Mary" id="599" weight="4.0" />
+      <edge source="Simon" target="Flavius Josephus" id="600" weight="3.0" />
+      <edge source="Elisha" target="Jehu" id="601" weight="9.0" />
+      <edge source="Satan" target="Job" id="602" weight="27.0" />
+      <edge source="Jesse" target="Ruth" id="603" weight="3.0" />
+      <edge source="Abel" target="Cain" id="604" weight="35.0" />
+      <edge source="Cain" target="Enoch" id="605" weight="3.0" />
+      <edge source="Cain" target="Noah" id="606" weight="3.0" />
+      <edge source="Noah" target="Shem" id="607" weight="34.0" />
+      <edge source="Noah" target="Enoch" id="608" weight="9.0" />
+      <edge source="Noah" target="Job" id="609" weight="5.0" />
+      <edge source="Simeon" target="Jose" id="610" weight="5.0" />
+      <edge source="Simeon" target="Nahman" id="611" weight="4.0" />
+      <edge source="Simeon" target="Phinehas" id="612" weight="3.0" />
+      <edge source="Claudius" target="Caligula" id="613" weight="18.0" />
+      <edge source="Claudius" target="Tiberius" id="614" weight="6.0" />
+      <edge source="Claudius" target="Marcus Antonius Felix" id="615" weight="5.0" />
+      <edge source="Claudius" target="Antonia" id="616" weight="3.0" />
+      <edge source="Claudius" target="Bernice" id="617" weight="3.0" />
+      <edge source="Claudius" target="Philip" id="618" weight="3.0" />
+      <edge source="Caligula" target="Tiberius" id="619" weight="19.0" />
+      <edge source="Caligula" target="Antonia" id="620" weight="5.0" />
+      <edge source="Caligula" target="Gaius Cassius Longinus" id="621" weight="5.0" />
+      <edge source="Caligula" target="Philip" id="622" weight="5.0" />
+      <edge source="Nathan" target="Eliezer" id="623" weight="3.0" />
+      <edge source="Paul" target="Judas" id="624" weight="4.0" />
+      <edge source="Paul" target="Marcus Antonius Felix" id="625" weight="4.0" />
+      <edge source="Paul" target="Bernice" id="626" weight="3.0" />
+      <edge source="Michael" target="Gabriel" id="627" weight="21.0" />
+      <edge source="Demetrius" target="Antiochus" id="628" weight="20.0" />
+      <edge source="Demetrius" target="Judas" id="629" weight="8.0" />
+      <edge source="Demetrius" target="Cleopatra" id="630" weight="4.0" />
+      <edge source="Demetrius" target="Philip" id="631" weight="3.0" />
+      <edge source="Cleopatra" target="Alexandra" id="632" weight="4.0" />
+      <edge source="Cleopatra" target="Antiochus" id="633" weight="4.0" />
+      <edge source="Philip" target="Herod Antipas" id="634" weight="11.0" />
+      <edge source="Philip" target="Tiberius" id="635" weight="7.0" />
+      <edge source="Philip" target="Judas" id="636" weight="4.0" />
+      <edge source="Philip" target="Matthias" id="637" weight="4.0" />
+      <edge source="Malichus" target="Gaius Cassius Longinus" id="638" weight="16.0" />
+      <edge source="Malichus" target="Marcus Antonius Felix" id="639" weight="3.0" />
+      <edge source="Eliezer" target="Akiva" id="640" weight="6.0" />
+      <edge source="Eliezer" target="Haran" id="641" weight="4.0" />
+      <edge source="Eliezer" target="Hyya" id="642" weight="3.0" />
+      <edge source="Eliezer" target="Jose" id="643" weight="3.0" />
+      <edge source="Jehu" target="Joash" id="644" weight="5.0" />
+      <edge source="Joash" target="Gideon" id="645" weight="7.0" />
+      <edge source="Tiberius" target="Antonia" id="646" weight="9.0" />
+      <edge source="Judas" target="Matthias" id="647" weight="11.0" />
+      <edge source="Judas" target="Antiochus" id="648" weight="10.0" />
+      <edge source="Judas" target="Flavius Josephus" id="649" weight="4.0" />
+      <edge source="Nebuchadnezzar" target="Darius" id="650" weight="4.0" />
+      <edge source="Bernice" target="Marcus Antonius Felix" id="651" weight="3.0" />
+      <edge source="Flavius Josephus" target="Titus" id="652" weight="13.0" />
+      <edge source="Titus" target="Antonia" id="653" weight="5.0" />
+      <edge source="Hyya" target="Huna" id="654" weight="5.0" />
+      <edge source="Hyya" target="Nahman" id="655" weight="5.0" />
+      <edge source="Jose" target="Rabba" id="656" weight="11.0" />
+      <edge source="Jose" target="Akiva" id="657" weight="3.0" />
+      <edge source="Jose" target="Hisda" id="658" weight="3.0" />
+      <edge source="Jose" target="Nahman" id="659" weight="3.0" />
+      <edge source="Rabba" target="Nahman" id="660" weight="6.0" />
+      <edge source="Rabba" target="Huna" id="661" weight="4.0" />
+      <edge source="Rabba" target="Akiva" id="662" weight="3.0" />
+      <edge source="Nahman" target="Huna" id="663" weight="9.0" />
+      <edge source="Nahman" target="Hisda" id="664" weight="3.0" />
+      <edge source="Akiva" target="Huna" id="665" weight="3.0" />
+      <edge source="Huna" target="Hisda" id="666" weight="8.0" />
+      <edge source="Huna" target="Meir" id="667" weight="5.0" />
+    </edges>
+  </graph>
+</gexf>

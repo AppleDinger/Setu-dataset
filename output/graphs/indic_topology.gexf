@@ -1,0 +1,1090 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-21">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="DegreeCentrality" type="double" />
+      <attribute id="1" title="BetweennessCentrality" type="double" />
+      <attribute id="2" title="EigenvectorCentrality" type="double" />
+      <attribute id="3" title="CommunityID" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Bhima" label="Bhima">
+        <attvalues>
+          <attvalue for="0" value="0.3375" />
+          <attvalue for="1" value="0.01890295358649789" />
+          <attvalue for="2" value="0.4420525340343743" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Pandu" label="Pandu">
+        <attvalues>
+          <attvalue for="0" value="0.23750000000000002" />
+          <attvalue for="1" value="0.011471518987341773" />
+          <attvalue for="2" value="0.33825477040244456" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Arjuna" label="Arjuna">
+        <attvalues>
+          <attvalue for="0" value="0.525" />
+          <attvalue for="1" value="0.09844409282700424" />
+          <attvalue for="2" value="0.46181718071925687" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Krishna" label="Krishna">
+        <attvalues>
+          <attvalue for="0" value="0.5" />
+          <attvalue for="1" value="0.03176160337552743" />
+          <attvalue for="2" value="0.3622254268801971" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Vasudeva_Anakadundubhi" label="Vasudeva_Anakadundubhi">
+        <attvalues>
+          <attvalue for="0" value="0.23750000000000002" />
+          <attvalue for="1" value="0.00031645569620253165" />
+          <attvalue for="2" value="0.16137462019957893" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Indra" label="Indra">
+        <attvalues>
+          <attvalue for="0" value="0.6875" />
+          <attvalue for="1" value="0.07100210970464134" />
+          <attvalue for="2" value="0.1300403957836279" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Soma" label="Soma">
+        <attvalues>
+          <attvalue for="0" value="0.3375" />
+          <attvalue for="1" value="0.058834388185654014" />
+          <attvalue for="2" value="0.030761747433949695" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Yudhishthira" label="Yudhishthira">
+        <attvalues>
+          <attvalue for="0" value="0.3875" />
+          <attvalue for="1" value="0.06233649789029535" />
+          <attvalue for="2" value="0.31858275411609055" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Karna" label="Karna">
+        <attvalues>
+          <attvalue for="0" value="0.2" />
+          <attvalue for="1" value="0.0026371308016877636" />
+          <attvalue for="2" value="0.23403590607272462" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Drona" label="Drona">
+        <attvalues>
+          <attvalue for="0" value="0.28750000000000003" />
+          <attvalue for="1" value="0.00010548523206751055" />
+          <attvalue for="2" value="0.21930718187649945" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Raghu" label="Raghu">
+        <attvalues>
+          <attvalue for="0" value="0.1875" />
+          <attvalue for="1" value="0.0023206751054852324" />
+          <attvalue for="2" value="0.005936385538242171" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Ráma" label="Ráma">
+        <attvalues>
+          <attvalue for="0" value="0.4" />
+          <attvalue for="1" value="0.0245253164556962" />
+          <attvalue for="2" value="0.032655675577744014" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Duryodhana" label="Duryodhana">
+        <attvalues>
+          <attvalue for="0" value="0.25" />
+          <attvalue for="1" value="0.012331223628691981" />
+          <attvalue for="2" value="0.21746653794390852" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sítá" label="Sítá">
+        <attvalues>
+          <attvalue for="0" value="0.1875" />
+          <attvalue for="1" value="0.017510548523206753" />
+          <attvalue for="2" value="0.004164583334577362" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Mitra" label="Mitra">
+        <attvalues>
+          <attvalue for="0" value="0.2" />
+          <attvalue for="1" value="0.006381856540084388" />
+          <attvalue for="2" value="0.007856982944232468" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Varuna" label="Varuna">
+        <attvalues>
+          <attvalue for="0" value="0.28750000000000003" />
+          <attvalue for="1" value="0.01561181434599156" />
+          <attvalue for="2" value="0.015917556973506327" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Agni" label="Agni">
+        <attvalues>
+          <attvalue for="0" value="0.41250000000000003" />
+          <attvalue for="1" value="0.050632911392405056" />
+          <attvalue for="2" value="0.02691874310269072" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Sanjaya" label="Sanjaya">
+        <attvalues>
+          <attvalue for="0" value="0.225" />
+          <attvalue for="1" value="0.012341772151898737" />
+          <attvalue for="2" value="0.14283307008020027" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nakula" label="Nakula">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0707758915155912" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Vishnu" label="Vishnu">
+        <attvalues>
+          <attvalue for="0" value="0.4375" />
+          <attvalue for="1" value="0.03197257383966245" />
+          <attvalue for="2" value="0.038185692479377545" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Dhrishtadyumna" label="Dhrishtadyumna">
+        <attvalues>
+          <attvalue for="0" value="0.1375" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.07051097843314517" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Draupadi" label="Draupadi">
+        <attvalues>
+          <attvalue for="0" value="0.125" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0824146881292883" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yama" label="Yama">
+        <attvalues>
+          <attvalue for="0" value="0.35000000000000003" />
+          <attvalue for="1" value="0.054113924050632915" />
+          <attvalue for="2" value="0.05549342879630801" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Vyāsa" label="Vyāsa">
+        <attvalues>
+          <attvalue for="0" value="0.1875" />
+          <attvalue for="1" value="0.005010548523206751" />
+          <attvalue for="2" value="0.033866231681357856" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Aryaman" label="Aryaman">
+        <attvalues>
+          <attvalue for="0" value="0.125" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.00294998656675276" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Surya" label="Surya">
+        <attvalues>
+          <attvalue for="0" value="0.2" />
+          <attvalue for="1" value="0.016772151898734176" />
+          <attvalue for="2" value="0.01259386244640945" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Vayu" label="Vayu">
+        <attvalues>
+          <attvalue for="0" value="0.1875" />
+          <attvalue for="1" value="0.005880801687763713" />
+          <attvalue for="2" value="0.005512060524768519" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bhrigu" label="Bhrigu">
+        <attvalues>
+          <attvalue for="0" value="0.2" />
+          <attvalue for="1" value="0.0006856540084388185" />
+          <attvalue for="2" value="0.008455230879916011" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Śiva" label="Śiva">
+        <attvalues>
+          <attvalue for="0" value="0.28750000000000003" />
+          <attvalue for="1" value="0.0391613924050633" />
+          <attvalue for="2" value="0.023455002732422195" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Aditi" label="Aditi">
+        <attvalues>
+          <attvalue for="0" value="0.1875" />
+          <attvalue for="1" value="0.020833333333333332" />
+          <attvalue for="2" value="0.0034514916655802885" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Asvins" label="Asvins">
+        <attvalues>
+          <attvalue for="0" value="0.21250000000000002" />
+          <attvalue for="1" value="0.01318565400843882" />
+          <attvalue for="2" value="0.0036358909886948106" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ganga" label="Ganga">
+        <attvalues>
+          <attvalue for="0" value="0.2" />
+          <attvalue for="1" value="0.0014240506329113924" />
+          <attvalue for="2" value="0.030639838045984445" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sachi" label="Sachi">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.031392405063291134" />
+          <attvalue for="2" value="0.006978812839803381" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Hanumán" label="Hanumán">
+        <attvalues>
+          <attvalue for="0" value="0.1125" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0036022138884763298" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Janak" label="Janak">
+        <attvalues>
+          <attvalue for="0" value="0.1125" />
+          <attvalue for="1" value="0.03386075949367089" />
+          <attvalue for="2" value="0.0017305387927426567" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Devaki" label="Devaki">
+        <attvalues>
+          <attvalue for="0" value="0.1125" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.013867216663150326" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Khara" label="Khara">
+        <attvalues>
+          <attvalue for="0" value="0.0625" />
+          <attvalue for="1" value="0.0033597046413502106" />
+          <attvalue for="2" value="0.000601612435127188" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Lakshmaṇ" label="Lakshmaṇ">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.04369198312236288" />
+          <attvalue for="2" value="0.0031441122835464703" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Brhaspati" label="Brhaspati">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.02613396624472574" />
+          <attvalue for="2" value="0.002151178953896609" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bhaga" label="Bhaga">
+        <attvalues>
+          <attvalue for="0" value="0.17500000000000002" />
+          <attvalue for="1" value="0.014208860759493671" />
+          <attvalue for="2" value="0.002848758036363733" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Vasishtha" label="Vasishtha">
+        <attvalues>
+          <attvalue for="0" value="0.225" />
+          <attvalue for="1" value="0.008913502109704643" />
+          <attvalue for="2" value="0.0056827461462976465" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Angad" label="Angad">
+        <attvalues>
+          <attvalue for="0" value="0.08750000000000001" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0007263356913967225" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Angiras" label="Angiras">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.00569620253164557" />
+          <attvalue for="2" value="0.002228800845990568" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Balarāma" label="Balarāma">
+        <attvalues>
+          <attvalue for="0" value="0.08750000000000001" />
+          <attvalue for="1" value="0.015295358649789028" />
+          <attvalue for="2" value="0.004615285284436571" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Maitreya" label="Maitreya">
+        <attvalues>
+          <attvalue for="0" value="0.17500000000000002" />
+          <attvalue for="1" value="0.026450421940928275" />
+          <attvalue for="2" value="0.006294077049530072" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Akrura" label="Akrura">
+        <attvalues>
+          <attvalue for="0" value="0.07500000000000001" />
+          <attvalue for="1" value="0.00390295358649789" />
+          <attvalue for="2" value="0.00475403275875916" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Báli" label="Báli">
+        <attvalues>
+          <attvalue for="0" value="0.1625" />
+          <attvalue for="1" value="0.05132911392405064" />
+          <attvalue for="2" value="0.0042551184526757775" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Rukmini" label="Rukmini">
+        <attvalues>
+          <attvalue for="0" value="0.07500000000000001" />
+          <attvalue for="1" value="0.011023206751054851" />
+          <attvalue for="2" value="0.005172142889545393" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Atri" label="Atri">
+        <attvalues>
+          <attvalue for="0" value="0.17500000000000002" />
+          <attvalue for="1" value="0.02101793248945148" />
+          <attvalue for="2" value="0.0020739708307657965" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Gautama" label="Gautama">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.009599156118143461" />
+          <attvalue for="2" value="0.005295023975724358" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Tvastar" label="Tvastar">
+        <attvalues>
+          <attvalue for="0" value="0.1375" />
+          <attvalue for="1" value="0.00390295358649789" />
+          <attvalue for="2" value="0.0015260738237844473" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Guha" label="Guha">
+        <attvalues>
+          <attvalue for="0" value="0.07500000000000001" />
+          <attvalue for="1" value="0.02236286919831224" />
+          <attvalue for="2" value="0.00045308959850714955" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Tárá" label="Tárá">
+        <attvalues>
+          <attvalue for="0" value="0.08750000000000001" />
+          <attvalue for="1" value="0.004029535864978903" />
+          <attvalue for="2" value="0.0005455640314533306" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Agastya" label="Agastya">
+        <attvalues>
+          <attvalue for="0" value="0.1125" />
+          <attvalue for="1" value="0.00015822784810126583" />
+          <attvalue for="2" value="0.0022543070529820073" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Daksha" label="Daksha">
+        <attvalues>
+          <attvalue for="0" value="0.1625" />
+          <attvalue for="1" value="0.0015822784810126582" />
+          <attvalue for="2" value="0.0026224541449584894" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Prahlāda" label="Prahlāda">
+        <attvalues>
+          <attvalue for="0" value="0.125" />
+          <attvalue for="1" value="0.03085443037974684" />
+          <attvalue for="2" value="0.0026825484577866878" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Naraka" label="Naraka">
+        <attvalues>
+          <attvalue for="0" value="0.1125" />
+          <attvalue for="1" value="0.02891350210970464" />
+          <attvalue for="2" value="0.004105693692630799" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Mahendra" label="Mahendra">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.023982067510548523" />
+          <attvalue for="2" value="0.005107360581370416" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Kali" label="Kali">
+        <attvalues>
+          <attvalue for="0" value="0.1375" />
+          <attvalue for="1" value="0.03662447257383967" />
+          <attvalue for="2" value="0.004659318821090713" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="Matarisvan" label="Matarisvan">
+        <attvalues>
+          <attvalue for="0" value="0.05" />
+          <attvalue for="1" value="0.005379746835443038" />
+          <attvalue for="2" value="0.0004302823695977276" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Níla" label="Níla">
+        <attvalues>
+          <attvalue for="0" value="0.125" />
+          <attvalue for="1" value="0.03388713080168776" />
+          <attvalue for="2" value="0.0016801788531040519" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Kapila" label="Kapila">
+        <attvalues>
+          <attvalue for="0" value="0.08750000000000001" />
+          <attvalue for="1" value="0.03481012658227848" />
+          <attvalue for="2" value="0.0005872196291556916" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Sagara" label="Sagara">
+        <attvalues>
+          <attvalue for="0" value="0.125" />
+          <attvalue for="1" value="0.02701476793248945" />
+          <attvalue for="2" value="0.0015718583788336216" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Kumbhakarṇa" label="Kumbhakarṇa">
+        <attvalues>
+          <attvalue for="0" value="0.07500000000000001" />
+          <attvalue for="1" value="0.020564345991561178" />
+          <attvalue for="2" value="0.0003139449728689506" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Kanva" label="Kanva">
+        <attvalues>
+          <attvalue for="0" value="0.0625" />
+          <attvalue for="1" value="0.001687763713080169" />
+          <attvalue for="2" value="0.000533684166296043" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Parjanya" label="Parjanya">
+        <attvalues>
+          <attvalue for="0" value="0.15000000000000002" />
+          <attvalue for="1" value="0.07526898734177215" />
+          <attvalue for="2" value="0.0011004126992532378" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Vibhishaṇ" label="Vibhishaṇ">
+        <attvalues>
+          <attvalue for="0" value="0.0625" />
+          <attvalue for="1" value="0.005379746835443038" />
+          <attvalue for="2" value="0.00011732420212431658" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="Vivasvan" label="Vivasvan">
+        <attvalues>
+          <attvalue for="0" value="0.05" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0005764573537749004" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Dhruva" label="Dhruva">
+        <attvalues>
+          <attvalue for="0" value="0.07500000000000001" />
+          <attvalue for="1" value="0.017848101265822786" />
+          <attvalue for="2" value="0.0011477460668259097" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="Eve" label="Eve">
+        <attvalues>
+          <attvalue for="0" value="0.1125" />
+          <attvalue for="1" value="0.06681434599156119" />
+          <attvalue for="2" value="0.002366223328926565" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Bhima" target="Pandu" id="0" weight="1112.0" />
+      <edge source="Bhima" target="Arjuna" id="1" weight="925.0" />
+      <edge source="Bhima" target="Yudhishthira" id="2" weight="649.0" />
+      <edge source="Bhima" target="Krishna" id="3" weight="416.0" />
+      <edge source="Bhima" target="Karna" id="4" weight="378.0" />
+      <edge source="Bhima" target="Duryodhana" id="5" weight="351.0" />
+      <edge source="Bhima" target="Drona" id="6" weight="310.0" />
+      <edge source="Bhima" target="Nakula" id="7" weight="190.0" />
+      <edge source="Bhima" target="Sanjaya" id="8" weight="173.0" />
+      <edge source="Bhima" target="Draupadi" id="9" weight="165.0" />
+      <edge source="Bhima" target="Indra" id="10" weight="157.0" />
+      <edge source="Bhima" target="Dhrishtadyumna" id="11" weight="144.0" />
+      <edge source="Bhima" target="Yama" id="12" weight="104.0" />
+      <edge source="Bhima" target="Vasudeva_Anakadundubhi" id="13" weight="101.0" />
+      <edge source="Bhima" target="Ganga" id="14" weight="29.0" />
+      <edge source="Bhima" target="Vyāsa" id="15" weight="25.0" />
+      <edge source="Bhima" target="Agni" id="16" weight="20.0" />
+      <edge source="Bhima" target="Hanumán" id="17" weight="20.0" />
+      <edge source="Bhima" target="Devaki" id="18" weight="9.0" />
+      <edge source="Bhima" target="Sachi" id="19" weight="7.0" />
+      <edge source="Bhima" target="Bhrigu" id="20" weight="6.0" />
+      <edge source="Bhima" target="Kali" id="21" weight="6.0" />
+      <edge source="Bhima" target="Mahendra" id="22" weight="6.0" />
+      <edge source="Bhima" target="Maitreya" id="23" weight="5.0" />
+      <edge source="Bhima" target="Báli" id="24" weight="4.0" />
+      <edge source="Bhima" target="Daksha" id="25" weight="4.0" />
+      <edge source="Bhima" target="Níla" id="26" weight="4.0" />
+      <edge source="Pandu" target="Arjuna" id="27" weight="521.0" />
+      <edge source="Pandu" target="Yudhishthira" id="28" weight="370.0" />
+      <edge source="Pandu" target="Krishna" id="29" weight="314.0" />
+      <edge source="Pandu" target="Karna" id="30" weight="224.0" />
+      <edge source="Pandu" target="Duryodhana" id="31" weight="201.0" />
+      <edge source="Pandu" target="Drona" id="32" weight="178.0" />
+      <edge source="Pandu" target="Sanjaya" id="33" weight="122.0" />
+      <edge source="Pandu" target="Vasudeva_Anakadundubhi" id="34" weight="89.0" />
+      <edge source="Pandu" target="Nakula" id="35" weight="77.0" />
+      <edge source="Pandu" target="Draupadi" id="36" weight="73.0" />
+      <edge source="Pandu" target="Yama" id="37" weight="46.0" />
+      <edge source="Pandu" target="Ganga" id="38" weight="30.0" />
+      <edge source="Pandu" target="Vyāsa" id="39" weight="29.0" />
+      <edge source="Pandu" target="Devaki" id="40" weight="8.0" />
+      <edge source="Pandu" target="Kali" id="41" weight="3.0" />
+      <edge source="Pandu" target="Naraka" id="42" weight="3.0" />
+      <edge source="Pandu" target="Níla" id="43" weight="3.0" />
+      <edge source="Arjuna" target="Krishna" id="44" weight="906.0" />
+      <edge source="Arjuna" target="Yudhishthira" id="45" weight="620.0" />
+      <edge source="Arjuna" target="Karna" id="46" weight="506.0" />
+      <edge source="Arjuna" target="Drona" id="47" weight="449.0" />
+      <edge source="Arjuna" target="Indra" id="48" weight="336.0" />
+      <edge source="Arjuna" target="Duryodhana" id="49" weight="308.0" />
+      <edge source="Arjuna" target="Vasudeva_Anakadundubhi" id="50" weight="271.0" />
+      <edge source="Arjuna" target="Sanjaya" id="51" weight="269.0" />
+      <edge source="Arjuna" target="Draupadi" id="52" weight="132.0" />
+      <edge source="Arjuna" target="Dhrishtadyumna" id="53" weight="115.0" />
+      <edge source="Arjuna" target="Nakula" id="54" weight="106.0" />
+      <edge source="Arjuna" target="Yama" id="55" weight="97.0" />
+      <edge source="Arjuna" target="Ganga" id="56" weight="62.0" />
+      <edge source="Arjuna" target="Ráma" id="57" weight="58.0" />
+      <edge source="Arjuna" target="Śiva" id="58" weight="58.0" />
+      <edge source="Arjuna" target="Agni" id="59" weight="56.0" />
+      <edge source="Arjuna" target="Vyāsa" id="60" weight="43.0" />
+      <edge source="Arjuna" target="Vishnu" id="61" weight="42.0" />
+      <edge source="Arjuna" target="Surya" id="62" weight="28.0" />
+      <edge source="Arjuna" target="Vasishtha" id="63" weight="24.0" />
+      <edge source="Arjuna" target="Devaki" id="64" weight="21.0" />
+      <edge source="Arjuna" target="Mahendra" id="65" weight="16.0" />
+      <edge source="Arjuna" target="Bhrigu" id="66" weight="12.0" />
+      <edge source="Arjuna" target="Rukmini" id="67" weight="11.0" />
+      <edge source="Arjuna" target="Sachi" id="68" weight="11.0" />
+      <edge source="Arjuna" target="Gautama" id="69" weight="10.0" />
+      <edge source="Arjuna" target="Agastya" id="70" weight="8.0" />
+      <edge source="Arjuna" target="Naraka" id="71" weight="8.0" />
+      <edge source="Arjuna" target="Angiras" id="72" weight="6.0" />
+      <edge source="Arjuna" target="Eve" id="73" weight="6.0" />
+      <edge source="Arjuna" target="Kali" id="74" weight="6.0" />
+      <edge source="Arjuna" target="Akrura" id="75" weight="5.0" />
+      <edge source="Arjuna" target="Lakshmaṇ" id="76" weight="5.0" />
+      <edge source="Arjuna" target="Báli" id="77" weight="4.0" />
+      <edge source="Arjuna" target="Atri" id="78" weight="3.0" />
+      <edge source="Arjuna" target="Bhaga" id="79" weight="3.0" />
+      <edge source="Arjuna" target="Janak" id="80" weight="3.0" />
+      <edge source="Arjuna" target="Parjanya" id="81" weight="3.0" />
+      <edge source="Arjuna" target="Sagara" id="82" weight="3.0" />
+      <edge source="Krishna" target="Vasudeva_Anakadundubhi" id="83" weight="746.0" />
+      <edge source="Krishna" target="Yudhishthira" id="84" weight="470.0" />
+      <edge source="Krishna" target="Duryodhana" id="85" weight="266.0" />
+      <edge source="Krishna" target="Indra" id="86" weight="216.0" />
+      <edge source="Krishna" target="Karna" id="87" weight="214.0" />
+      <edge source="Krishna" target="Drona" id="88" weight="204.0" />
+      <edge source="Krishna" target="Sanjaya" id="89" weight="165.0" />
+      <edge source="Krishna" target="Vishnu" id="90" weight="165.0" />
+      <edge source="Krishna" target="Draupadi" id="91" weight="116.0" />
+      <edge source="Krishna" target="Ráma" id="92" weight="102.0" />
+      <edge source="Krishna" target="Vyāsa" id="93" weight="100.0" />
+      <edge source="Krishna" target="Śiva" id="94" weight="77.0" />
+      <edge source="Krishna" target="Yama" id="95" weight="57.0" />
+      <edge source="Krishna" target="Dhrishtadyumna" id="96" weight="56.0" />
+      <edge source="Krishna" target="Devaki" id="97" weight="55.0" />
+      <edge source="Krishna" target="Nakula" id="98" weight="44.0" />
+      <edge source="Krishna" target="Ganga" id="99" weight="38.0" />
+      <edge source="Krishna" target="Balarāma" id="100" weight="37.0" />
+      <edge source="Krishna" target="Maitreya" id="101" weight="35.0" />
+      <edge source="Krishna" target="Akrura" id="102" weight="34.0" />
+      <edge source="Krishna" target="Rukmini" id="103" weight="29.0" />
+      <edge source="Krishna" target="Bhrigu" id="104" weight="20.0" />
+      <edge source="Krishna" target="Naraka" id="105" weight="19.0" />
+      <edge source="Krishna" target="Kali" id="106" weight="16.0" />
+      <edge source="Krishna" target="Sachi" id="107" weight="14.0" />
+      <edge source="Krishna" target="Báli" id="108" weight="9.0" />
+      <edge source="Krishna" target="Prahlāda" id="109" weight="9.0" />
+      <edge source="Krishna" target="Daksha" id="110" weight="8.0" />
+      <edge source="Krishna" target="Dhruva" id="111" weight="7.0" />
+      <edge source="Krishna" target="Eve" id="112" weight="7.0" />
+      <edge source="Krishna" target="Lakshmaṇ" id="113" weight="5.0" />
+      <edge source="Krishna" target="Mahendra" id="114" weight="5.0" />
+      <edge source="Krishna" target="Kapila" id="115" weight="4.0" />
+      <edge source="Krishna" target="Sagara" id="116" weight="4.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Yudhishthira" id="117" weight="118.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Duryodhana" id="118" weight="66.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Drona" id="119" weight="57.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Sanjaya" id="120" weight="53.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Vishnu" id="121" weight="38.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Devaki" id="122" weight="28.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Vyāsa" id="123" weight="19.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Nakula" id="124" weight="14.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Rukmini" id="125" weight="10.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Yama" id="126" weight="10.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Maitreya" id="127" weight="8.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Akrura" id="128" weight="7.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Balarāma" id="129" weight="7.0" />
+      <edge source="Vasudeva_Anakadundubhi" target="Śiva" id="130" weight="5.0" />
+      <edge source="Indra" target="Soma" id="131" weight="686.0" />
+      <edge source="Indra" target="Agni" id="132" weight="274.0" />
+      <edge source="Indra" target="Varuna" id="133" weight="222.0" />
+      <edge source="Indra" target="Vishnu" id="134" weight="180.0" />
+      <edge source="Indra" target="Ráma" id="135" weight="142.0" />
+      <edge source="Indra" target="Karna" id="136" weight="123.0" />
+      <edge source="Indra" target="Mitra" id="137" weight="110.0" />
+      <edge source="Indra" target="Drona" id="138" weight="106.0" />
+      <edge source="Indra" target="Yama" id="139" weight="99.0" />
+      <edge source="Indra" target="Surya" id="140" weight="90.0" />
+      <edge source="Indra" target="Vayu" id="141" weight="88.0" />
+      <edge source="Indra" target="Duryodhana" id="142" weight="80.0" />
+      <edge source="Indra" target="Śiva" id="143" weight="74.0" />
+      <edge source="Indra" target="Sachi" id="144" weight="61.0" />
+      <edge source="Indra" target="Asvins" id="145" weight="56.0" />
+      <edge source="Indra" target="Aditi" id="146" weight="53.0" />
+      <edge source="Indra" target="Brhaspati" id="147" weight="43.0" />
+      <edge source="Indra" target="Aryaman" id="148" weight="42.0" />
+      <edge source="Indra" target="Bhaga" id="149" weight="36.0" />
+      <edge source="Indra" target="Bhrigu" id="150" weight="34.0" />
+      <edge source="Indra" target="Raghu" id="151" weight="33.0" />
+      <edge source="Indra" target="Báli" id="152" weight="32.0" />
+      <edge source="Indra" target="Ganga" id="153" weight="30.0" />
+      <edge source="Indra" target="Tvastar" id="154" weight="27.0" />
+      <edge source="Indra" target="Vasishtha" id="155" weight="24.0" />
+      <edge source="Indra" target="Angiras" id="156" weight="22.0" />
+      <edge source="Indra" target="Agastya" id="157" weight="19.0" />
+      <edge source="Indra" target="Prahlāda" id="158" weight="19.0" />
+      <edge source="Indra" target="Gautama" id="159" weight="17.0" />
+      <edge source="Indra" target="Atri" id="160" weight="14.0" />
+      <edge source="Indra" target="Sítá" id="161" weight="14.0" />
+      <edge source="Indra" target="Mahendra" id="162" weight="13.0" />
+      <edge source="Indra" target="Daksha" id="163" weight="12.0" />
+      <edge source="Indra" target="Parjanya" id="164" weight="11.0" />
+      <edge source="Indra" target="Kanva" id="165" weight="10.0" />
+      <edge source="Indra" target="Vivasvan" id="166" weight="10.0" />
+      <edge source="Indra" target="Devaki" id="167" weight="9.0" />
+      <edge source="Indra" target="Hanumán" id="168" weight="9.0" />
+      <edge source="Indra" target="Angad" id="169" weight="8.0" />
+      <edge source="Indra" target="Eve" id="170" weight="7.0" />
+      <edge source="Indra" target="Matarisvan" id="171" weight="7.0" />
+      <edge source="Indra" target="Naraka" id="172" weight="7.0" />
+      <edge source="Indra" target="Dhruva" id="173" weight="6.0" />
+      <edge source="Indra" target="Maitreya" id="174" weight="6.0" />
+      <edge source="Indra" target="Tárá" id="175" weight="5.0" />
+      <edge source="Indra" target="Kali" id="176" weight="4.0" />
+      <edge source="Indra" target="Janak" id="177" weight="3.0" />
+      <edge source="Indra" target="Khara" id="178" weight="3.0" />
+      <edge source="Indra" target="Kumbhakarṇa" id="179" weight="3.0" />
+      <edge source="Indra" target="Níla" id="180" weight="3.0" />
+      <edge source="Soma" target="Agni" id="181" weight="159.0" />
+      <edge source="Soma" target="Varuna" id="182" weight="115.0" />
+      <edge source="Soma" target="Surya" id="183" weight="83.0" />
+      <edge source="Soma" target="Asvins" id="184" weight="75.0" />
+      <edge source="Soma" target="Vayu" id="185" weight="72.0" />
+      <edge source="Soma" target="Mitra" id="186" weight="68.0" />
+      <edge source="Soma" target="Vishnu" id="187" weight="53.0" />
+      <edge source="Soma" target="Aditi" id="188" weight="28.0" />
+      <edge source="Soma" target="Yama" id="189" weight="28.0" />
+      <edge source="Soma" target="Brhaspati" id="190" weight="25.0" />
+      <edge source="Soma" target="Daksha" id="191" weight="20.0" />
+      <edge source="Soma" target="Aryaman" id="192" weight="19.0" />
+      <edge source="Soma" target="Bhaga" id="193" weight="19.0" />
+      <edge source="Soma" target="Atri" id="194" weight="18.0" />
+      <edge source="Soma" target="Angiras" id="195" weight="12.0" />
+      <edge source="Soma" target="Tvastar" id="196" weight="11.0" />
+      <edge source="Soma" target="Kanva" id="197" weight="8.0" />
+      <edge source="Soma" target="Vivasvan" id="198" weight="8.0" />
+      <edge source="Soma" target="Parjanya" id="199" weight="6.0" />
+      <edge source="Soma" target="Matarisvan" id="200" weight="4.0" />
+      <edge source="Soma" target="Tárá" id="201" weight="4.0" />
+      <edge source="Soma" target="Dhruva" id="202" weight="3.0" />
+      <edge source="Soma" target="Eve" id="203" weight="3.0" />
+      <edge source="Soma" target="Nakula" id="204" weight="3.0" />
+      <edge source="Soma" target="Sachi" id="205" weight="3.0" />
+      <edge source="Yudhishthira" target="Duryodhana" id="206" weight="252.0" />
+      <edge source="Yudhishthira" target="Drona" id="207" weight="198.0" />
+      <edge source="Yudhishthira" target="Karna" id="208" weight="155.0" />
+      <edge source="Yudhishthira" target="Draupadi" id="209" weight="154.0" />
+      <edge source="Yudhishthira" target="Sanjaya" id="210" weight="144.0" />
+      <edge source="Yudhishthira" target="Nakula" id="211" weight="113.0" />
+      <edge source="Yudhishthira" target="Dhrishtadyumna" id="212" weight="86.0" />
+      <edge source="Yudhishthira" target="Vyāsa" id="213" weight="78.0" />
+      <edge source="Yudhishthira" target="Ganga" id="214" weight="49.0" />
+      <edge source="Yudhishthira" target="Ráma" id="215" weight="41.0" />
+      <edge source="Yudhishthira" target="Yama" id="216" weight="37.0" />
+      <edge source="Yudhishthira" target="Vishnu" id="217" weight="21.0" />
+      <edge source="Yudhishthira" target="Śiva" id="218" weight="16.0" />
+      <edge source="Yudhishthira" target="Devaki" id="219" weight="10.0" />
+      <edge source="Yudhishthira" target="Varuna" id="220" weight="10.0" />
+      <edge source="Yudhishthira" target="Mahendra" id="221" weight="7.0" />
+      <edge source="Yudhishthira" target="Janak" id="222" weight="6.0" />
+      <edge source="Yudhishthira" target="Gautama" id="223" weight="5.0" />
+      <edge source="Yudhishthira" target="Vasishtha" id="224" weight="5.0" />
+      <edge source="Yudhishthira" target="Kali" id="225" weight="4.0" />
+      <edge source="Yudhishthira" target="Sagara" id="226" weight="4.0" />
+      <edge source="Yudhishthira" target="Eve" id="227" weight="3.0" />
+      <edge source="Yudhishthira" target="Lakshmaṇ" id="228" weight="3.0" />
+      <edge source="Yudhishthira" target="Prahlāda" id="229" weight="3.0" />
+      <edge source="Yudhishthira" target="Vayu" id="230" weight="3.0" />
+      <edge source="Karna" target="Duryodhana" id="231" weight="335.0" />
+      <edge source="Karna" target="Drona" id="232" weight="296.0" />
+      <edge source="Karna" target="Sanjaya" id="233" weight="169.0" />
+      <edge source="Karna" target="Dhrishtadyumna" id="234" weight="71.0" />
+      <edge source="Karna" target="Nakula" id="235" weight="64.0" />
+      <edge source="Karna" target="Yama" id="236" weight="53.0" />
+      <edge source="Karna" target="Surya" id="237" weight="41.0" />
+      <edge source="Karna" target="Devaki" id="238" weight="8.0" />
+      <edge source="Karna" target="Gautama" id="239" weight="4.0" />
+      <edge source="Karna" target="Naraka" id="240" weight="4.0" />
+      <edge source="Drona" target="Duryodhana" id="241" weight="278.0" />
+      <edge source="Drona" target="Sanjaya" id="242" weight="203.0" />
+      <edge source="Drona" target="Dhrishtadyumna" id="243" weight="175.0" />
+      <edge source="Drona" target="Yama" id="244" weight="54.0" />
+      <edge source="Drona" target="Draupadi" id="245" weight="41.0" />
+      <edge source="Drona" target="Ganga" id="246" weight="32.0" />
+      <edge source="Drona" target="Gautama" id="247" weight="27.0" />
+      <edge source="Drona" target="Vyāsa" id="248" weight="23.0" />
+      <edge source="Drona" target="Bhrigu" id="249" weight="20.0" />
+      <edge source="Drona" target="Agni" id="250" weight="12.0" />
+      <edge source="Drona" target="Atri" id="251" weight="11.0" />
+      <edge source="Drona" target="Báli" id="252" weight="6.0" />
+      <edge source="Drona" target="Lakshmaṇ" id="253" weight="6.0" />
+      <edge source="Drona" target="Níla" id="254" weight="6.0" />
+      <edge source="Drona" target="Prahlāda" id="255" weight="5.0" />
+      <edge source="Raghu" target="Ráma" id="256" weight="433.0" />
+      <edge source="Raghu" target="Sítá" id="257" weight="59.0" />
+      <edge source="Raghu" target="Hanumán" id="258" weight="21.0" />
+      <edge source="Raghu" target="Angad" id="259" weight="13.0" />
+      <edge source="Raghu" target="Janak" id="260" weight="11.0" />
+      <edge source="Raghu" target="Khara" id="261" weight="10.0" />
+      <edge source="Raghu" target="Tárá" id="262" weight="8.0" />
+      <edge source="Raghu" target="Vasishtha" id="263" weight="8.0" />
+      <edge source="Raghu" target="Sagara" id="264" weight="7.0" />
+      <edge source="Raghu" target="Ganga" id="265" weight="6.0" />
+      <edge source="Raghu" target="Kumbhakarṇa" id="266" weight="6.0" />
+      <edge source="Raghu" target="Lakshmaṇ" id="267" weight="5.0" />
+      <edge source="Raghu" target="Vibhishaṇ" id="268" weight="4.0" />
+      <edge source="Ráma" target="Sítá" id="269" weight="297.0" />
+      <edge source="Ráma" target="Bhrigu" id="270" weight="81.0" />
+      <edge source="Ráma" target="Hanumán" id="271" weight="60.0" />
+      <edge source="Ráma" target="Janak" id="272" weight="58.0" />
+      <edge source="Ráma" target="Khara" id="273" weight="48.0" />
+      <edge source="Ráma" target="Lakshmaṇ" id="274" weight="47.0" />
+      <edge source="Ráma" target="Vasishtha" id="275" weight="39.0" />
+      <edge source="Ráma" target="Angad" id="276" weight="38.0" />
+      <edge source="Ráma" target="Vishnu" id="277" weight="36.0" />
+      <edge source="Ráma" target="Ganga" id="278" weight="31.0" />
+      <edge source="Ráma" target="Yama" id="279" weight="31.0" />
+      <edge source="Ráma" target="Guha" id="280" weight="25.0" />
+      <edge source="Ráma" target="Tárá" id="281" weight="24.0" />
+      <edge source="Ráma" target="Agastya" id="282" weight="22.0" />
+      <edge source="Ráma" target="Mahendra" id="283" weight="15.0" />
+      <edge source="Ráma" target="Kumbhakarṇa" id="284" weight="14.0" />
+      <edge source="Ráma" target="Báli" id="285" weight="12.0" />
+      <edge source="Ráma" target="Sagara" id="286" weight="12.0" />
+      <edge source="Ráma" target="Sachi" id="287" weight="11.0" />
+      <edge source="Ráma" target="Vibhishaṇ" id="288" weight="11.0" />
+      <edge source="Ráma" target="Akrura" id="289" weight="10.0" />
+      <edge source="Ráma" target="Níla" id="290" weight="10.0" />
+      <edge source="Ráma" target="Balarāma" id="291" weight="8.0" />
+      <edge source="Ráma" target="Eve" id="292" weight="5.0" />
+      <edge source="Ráma" target="Rukmini" id="293" weight="4.0" />
+      <edge source="Duryodhana" target="Sanjaya" id="294" weight="184.0" />
+      <edge source="Duryodhana" target="Draupadi" id="295" weight="55.0" />
+      <edge source="Duryodhana" target="Dhrishtadyumna" id="296" weight="52.0" />
+      <edge source="Duryodhana" target="Ganga" id="297" weight="31.0" />
+      <edge source="Duryodhana" target="Lakshmaṇ" id="298" weight="11.0" />
+      <edge source="Duryodhana" target="Gautama" id="299" weight="9.0" />
+      <edge source="Duryodhana" target="Maitreya" id="300" weight="8.0" />
+      <edge source="Duryodhana" target="Agni" id="301" weight="6.0" />
+      <edge source="Duryodhana" target="Báli" id="302" weight="6.0" />
+      <edge source="Duryodhana" target="Kali" id="303" weight="5.0" />
+      <edge source="Duryodhana" target="Balarāma" id="304" weight="3.0" />
+      <edge source="Sítá" target="Janak" id="305" weight="40.0" />
+      <edge source="Sítá" target="Hanumán" id="306" weight="20.0" />
+      <edge source="Sítá" target="Lakshmaṇ" id="307" weight="17.0" />
+      <edge source="Sítá" target="Vishnu" id="308" weight="8.0" />
+      <edge source="Sítá" target="Guha" id="309" weight="7.0" />
+      <edge source="Sítá" target="Khara" id="310" weight="6.0" />
+      <edge source="Sítá" target="Kumbhakarṇa" id="311" weight="6.0" />
+      <edge source="Sítá" target="Vasishtha" id="312" weight="5.0" />
+      <edge source="Sítá" target="Yama" id="313" weight="4.0" />
+      <edge source="Sítá" target="Sachi" id="314" weight="3.0" />
+      <edge source="Sítá" target="Śiva" id="315" weight="3.0" />
+      <edge source="Mitra" target="Varuna" id="316" weight="282.0" />
+      <edge source="Mitra" target="Agni" id="317" weight="110.0" />
+      <edge source="Mitra" target="Aryaman" id="318" weight="94.0" />
+      <edge source="Mitra" target="Aditi" id="319" weight="59.0" />
+      <edge source="Mitra" target="Bhaga" id="320" weight="42.0" />
+      <edge source="Mitra" target="Asvins" id="321" weight="35.0" />
+      <edge source="Mitra" target="Surya" id="322" weight="30.0" />
+      <edge source="Mitra" target="Vishnu" id="323" weight="29.0" />
+      <edge source="Mitra" target="Vayu" id="324" weight="24.0" />
+      <edge source="Mitra" target="Śiva" id="325" weight="19.0" />
+      <edge source="Mitra" target="Brhaspati" id="326" weight="8.0" />
+      <edge source="Mitra" target="Tvastar" id="327" weight="8.0" />
+      <edge source="Mitra" target="Parjanya" id="328" weight="4.0" />
+      <edge source="Mitra" target="Matarisvan" id="329" weight="3.0" />
+      <edge source="Varuna" target="Agni" id="330" weight="156.0" />
+      <edge source="Varuna" target="Aryaman" id="331" weight="89.0" />
+      <edge source="Varuna" target="Yama" id="332" weight="77.0" />
+      <edge source="Varuna" target="Aditi" id="333" weight="76.0" />
+      <edge source="Varuna" target="Vishnu" id="334" weight="47.0" />
+      <edge source="Varuna" target="Surya" id="335" weight="46.0" />
+      <edge source="Varuna" target="Bhaga" id="336" weight="41.0" />
+      <edge source="Varuna" target="Asvins" id="337" weight="39.0" />
+      <edge source="Varuna" target="Vayu" id="338" weight="39.0" />
+      <edge source="Varuna" target="Śiva" id="339" weight="38.0" />
+      <edge source="Varuna" target="Brhaspati" id="340" weight="13.0" />
+      <edge source="Varuna" target="Tvastar" id="341" weight="10.0" />
+      <edge source="Varuna" target="Parjanya" id="342" weight="8.0" />
+      <edge source="Varuna" target="Mahendra" id="343" weight="5.0" />
+      <edge source="Varuna" target="Sagara" id="344" weight="5.0" />
+      <edge source="Varuna" target="Naraka" id="345" weight="4.0" />
+      <edge source="Varuna" target="Sachi" id="346" weight="4.0" />
+      <edge source="Agni" target="Surya" id="347" weight="63.0" />
+      <edge source="Agni" target="Śiva" id="348" weight="51.0" />
+      <edge source="Agni" target="Vishnu" id="349" weight="48.0" />
+      <edge source="Agni" target="Asvins" id="350" weight="46.0" />
+      <edge source="Agni" target="Aditi" id="351" weight="41.0" />
+      <edge source="Agni" target="Vayu" id="352" weight="41.0" />
+      <edge source="Agni" target="Angiras" id="353" weight="37.0" />
+      <edge source="Agni" target="Aryaman" id="354" weight="36.0" />
+      <edge source="Agni" target="Bhaga" id="355" weight="32.0" />
+      <edge source="Agni" target="Bhrigu" id="356" weight="20.0" />
+      <edge source="Agni" target="Brhaspati" id="357" weight="18.0" />
+      <edge source="Agni" target="Tvastar" id="358" weight="17.0" />
+      <edge source="Agni" target="Matarisvan" id="359" weight="15.0" />
+      <edge source="Agni" target="Atri" id="360" weight="12.0" />
+      <edge source="Agni" target="Ganga" id="361" weight="12.0" />
+      <edge source="Agni" target="Kanva" id="362" weight="8.0" />
+      <edge source="Agni" target="Níla" id="363" weight="7.0" />
+      <edge source="Agni" target="Parjanya" id="364" weight="7.0" />
+      <edge source="Agni" target="Vivasvan" id="365" weight="7.0" />
+      <edge source="Agni" target="Eve" id="366" weight="6.0" />
+      <edge source="Agni" target="Mahendra" id="367" weight="5.0" />
+      <edge source="Agni" target="Draupadi" id="368" weight="4.0" />
+      <edge source="Agni" target="Dhrishtadyumna" id="369" weight="3.0" />
+      <edge source="Agni" target="Guha" id="370" weight="3.0" />
+      <edge source="Sanjaya" target="Vyāsa" id="371" weight="25.0" />
+      <edge source="Sanjaya" target="Ganga" id="372" weight="22.0" />
+      <edge source="Sanjaya" target="Nakula" id="373" weight="20.0" />
+      <edge source="Sanjaya" target="Yama" id="374" weight="17.0" />
+      <edge source="Sanjaya" target="Śiva" id="375" weight="6.0" />
+      <edge source="Sanjaya" target="Eve" id="376" weight="3.0" />
+      <edge source="Sanjaya" target="Kali" id="377" weight="3.0" />
+      <edge source="Sanjaya" target="Níla" id="378" weight="3.0" />
+      <edge source="Nakula" target="Draupadi" id="379" weight="65.0" />
+      <edge source="Nakula" target="Dhrishtadyumna" id="380" weight="42.0" />
+      <edge source="Nakula" target="Yama" id="381" weight="15.0" />
+      <edge source="Vishnu" target="Śiva" id="382" weight="50.0" />
+      <edge source="Vishnu" target="Maitreya" id="383" weight="37.0" />
+      <edge source="Vishnu" target="Yama" id="384" weight="28.0" />
+      <edge source="Vishnu" target="Surya" id="385" weight="25.0" />
+      <edge source="Vishnu" target="Aditi" id="386" weight="24.0" />
+      <edge source="Vishnu" target="Vayu" id="387" weight="23.0" />
+      <edge source="Vishnu" target="Prahlāda" id="388" weight="20.0" />
+      <edge source="Vishnu" target="Aryaman" id="389" weight="16.0" />
+      <edge source="Vishnu" target="Bhaga" id="390" weight="16.0" />
+      <edge source="Vishnu" target="Daksha" id="391" weight="10.0" />
+      <edge source="Vishnu" target="Vyāsa" id="392" weight="9.0" />
+      <edge source="Vishnu" target="Báli" id="393" weight="8.0" />
+      <edge source="Vishnu" target="Dhruva" id="394" weight="8.0" />
+      <edge source="Vishnu" target="Vasishtha" id="395" weight="7.0" />
+      <edge source="Vishnu" target="Kali" id="396" weight="6.0" />
+      <edge source="Vishnu" target="Kapila" id="397" weight="6.0" />
+      <edge source="Vishnu" target="Mahendra" id="398" weight="6.0" />
+      <edge source="Vishnu" target="Parjanya" id="399" weight="6.0" />
+      <edge source="Vishnu" target="Sagara" id="400" weight="6.0" />
+      <edge source="Vishnu" target="Sachi" id="401" weight="5.0" />
+      <edge source="Vishnu" target="Naraka" id="402" weight="4.0" />
+      <edge source="Vishnu" target="Tvastar" id="403" weight="4.0" />
+      <edge source="Vishnu" target="Balarāma" id="404" weight="3.0" />
+      <edge source="Dhrishtadyumna" target="Draupadi" id="405" weight="63.0" />
+      <edge source="Dhrishtadyumna" target="Ganga" id="406" weight="12.0" />
+      <edge source="Yama" target="Śiva" id="407" weight="25.0" />
+      <edge source="Yama" target="Surya" id="408" weight="14.0" />
+      <edge source="Yama" target="Vayu" id="409" weight="9.0" />
+      <edge source="Yama" target="Vasishtha" id="410" weight="6.0" />
+      <edge source="Yama" target="Gautama" id="411" weight="5.0" />
+      <edge source="Yama" target="Prahlāda" id="412" weight="5.0" />
+      <edge source="Yama" target="Lakshmaṇ" id="413" weight="4.0" />
+      <edge source="Yama" target="Mahendra" id="414" weight="4.0" />
+      <edge source="Yama" target="Vivasvan" id="415" weight="4.0" />
+      <edge source="Yama" target="Vyāsa" id="416" weight="4.0" />
+      <edge source="Vyāsa" target="Maitreya" id="417" weight="11.0" />
+      <edge source="Vyāsa" target="Śiva" id="418" weight="8.0" />
+      <edge source="Vyāsa" target="Vasishtha" id="419" weight="7.0" />
+      <edge source="Vyāsa" target="Kapila" id="420" weight="3.0" />
+      <edge source="Aryaman" target="Bhaga" id="421" weight="33.0" />
+      <edge source="Aryaman" target="Aditi" id="422" weight="23.0" />
+      <edge source="Aryaman" target="Asvins" id="423" weight="14.0" />
+      <edge source="Aryaman" target="Brhaspati" id="424" weight="4.0" />
+      <edge source="Surya" target="Asvins" id="425" weight="25.0" />
+      <edge source="Surya" target="Vayu" id="426" weight="15.0" />
+      <edge source="Surya" target="Śiva" id="427" weight="12.0" />
+      <edge source="Surya" target="Brhaspati" id="428" weight="5.0" />
+      <edge source="Surya" target="Kapila" id="429" weight="4.0" />
+      <edge source="Surya" target="Parjanya" id="430" weight="3.0" />
+      <edge source="Vayu" target="Asvins" id="431" weight="16.0" />
+      <edge source="Vayu" target="Brhaspati" id="432" weight="7.0" />
+      <edge source="Vayu" target="Śiva" id="433" weight="7.0" />
+      <edge source="Vayu" target="Parjanya" id="434" weight="5.0" />
+      <edge source="Vayu" target="Tvastar" id="435" weight="5.0" />
+      <edge source="Bhrigu" target="Angiras" id="436" weight="33.0" />
+      <edge source="Bhrigu" target="Vasishtha" id="437" weight="20.0" />
+      <edge source="Bhrigu" target="Atri" id="438" weight="18.0" />
+      <edge source="Bhrigu" target="Agastya" id="439" weight="17.0" />
+      <edge source="Bhrigu" target="Daksha" id="440" weight="9.0" />
+      <edge source="Bhrigu" target="Gautama" id="441" weight="9.0" />
+      <edge source="Bhrigu" target="Báli" id="442" weight="5.0" />
+      <edge source="Bhrigu" target="Mahendra" id="443" weight="5.0" />
+      <edge source="Śiva" target="Daksha" id="444" weight="18.0" />
+      <edge source="Śiva" target="Bhaga" id="445" weight="14.0" />
+      <edge source="Śiva" target="Guha" id="446" weight="5.0" />
+      <edge source="Śiva" target="Tvastar" id="447" weight="5.0" />
+      <edge source="Śiva" target="Sachi" id="448" weight="4.0" />
+      <edge source="Śiva" target="Parjanya" id="449" weight="3.0" />
+      <edge source="Śiva" target="Vasishtha" id="450" weight="3.0" />
+      <edge source="Aditi" target="Bhaga" id="451" weight="16.0" />
+      <edge source="Aditi" target="Asvins" id="452" weight="10.0" />
+      <edge source="Aditi" target="Daksha" id="453" weight="8.0" />
+      <edge source="Aditi" target="Naraka" id="454" weight="6.0" />
+      <edge source="Aditi" target="Sachi" id="455" weight="6.0" />
+      <edge source="Aditi" target="Tvastar" id="456" weight="6.0" />
+      <edge source="Aditi" target="Báli" id="457" weight="4.0" />
+      <edge source="Aditi" target="Brhaspati" id="458" weight="3.0" />
+      <edge source="Asvins" target="Atri" id="459" weight="20.0" />
+      <edge source="Asvins" target="Bhaga" id="460" weight="15.0" />
+      <edge source="Asvins" target="Kanva" id="461" weight="12.0" />
+      <edge source="Asvins" target="Brhaspati" id="462" weight="9.0" />
+      <edge source="Asvins" target="Tvastar" id="463" weight="5.0" />
+      <edge source="Asvins" target="Agastya" id="464" weight="4.0" />
+      <edge source="Asvins" target="Eve" id="465" weight="4.0" />
+      <edge source="Asvins" target="Parjanya" id="466" weight="4.0" />
+      <edge source="Ganga" target="Guha" id="467" weight="11.0" />
+      <edge source="Ganga" target="Sagara" id="468" weight="7.0" />
+      <edge source="Ganga" target="Kapila" id="469" weight="4.0" />
+      <edge source="Hanumán" target="Angad" id="470" weight="19.0" />
+      <edge source="Hanumán" target="Níla" id="471" weight="15.0" />
+      <edge source="Hanumán" target="Tárá" id="472" weight="7.0" />
+      <edge source="Hanumán" target="Janak" id="473" weight="4.0" />
+      <edge source="Janak" target="Lakshmaṇ" id="474" weight="6.0" />
+      <edge source="Janak" target="Vasishtha" id="475" weight="5.0" />
+      <edge source="Devaki" target="Balarāma" id="476" weight="5.0" />
+      <edge source="Khara" target="Vibhishaṇ" id="477" weight="3.0" />
+      <edge source="Lakshmaṇ" target="Báli" id="478" weight="5.0" />
+      <edge source="Lakshmaṇ" target="Vibhishaṇ" id="479" weight="4.0" />
+      <edge source="Brhaspati" target="Bhaga" id="480" weight="7.0" />
+      <edge source="Brhaspati" target="Angiras" id="481" weight="5.0" />
+      <edge source="Bhaga" target="Daksha" id="482" weight="4.0" />
+      <edge source="Bhaga" target="Parjanya" id="483" weight="3.0" />
+      <edge source="Vasishtha" target="Atri" id="484" weight="27.0" />
+      <edge source="Vasishtha" target="Angiras" id="485" weight="20.0" />
+      <edge source="Vasishtha" target="Gautama" id="486" weight="14.0" />
+      <edge source="Vasishtha" target="Agastya" id="487" weight="9.0" />
+      <edge source="Vasishtha" target="Maitreya" id="488" weight="5.0" />
+      <edge source="Angad" target="Tárá" id="489" weight="17.0" />
+      <edge source="Angad" target="Níla" id="490" weight="10.0" />
+      <edge source="Angad" target="Báli" id="491" weight="3.0" />
+      <edge source="Angiras" target="Atri" id="492" weight="23.0" />
+      <edge source="Angiras" target="Daksha" id="493" weight="13.0" />
+      <edge source="Angiras" target="Gautama" id="494" weight="10.0" />
+      <edge source="Angiras" target="Agastya" id="495" weight="9.0" />
+      <edge source="Angiras" target="Prahlāda" id="496" weight="4.0" />
+      <edge source="Balarāma" target="Akrura" id="497" weight="8.0" />
+      <edge source="Maitreya" target="Daksha" id="498" weight="6.0" />
+      <edge source="Maitreya" target="Kali" id="499" weight="6.0" />
+      <edge source="Maitreya" target="Prahlāda" id="500" weight="6.0" />
+      <edge source="Maitreya" target="Dhruva" id="501" weight="4.0" />
+      <edge source="Maitreya" target="Kapila" id="502" weight="3.0" />
+      <edge source="Akrura" target="Rukmini" id="503" weight="4.0" />
+      <edge source="Báli" target="Prahlāda" id="504" weight="6.0" />
+      <edge source="Atri" target="Daksha" id="505" weight="12.0" />
+      <edge source="Atri" target="Gautama" id="506" weight="10.0" />
+      <edge source="Atri" target="Agastya" id="507" weight="7.0" />
+      <edge source="Atri" target="Kali" id="508" weight="3.0" />
+      <edge source="Atri" target="Kanva" id="509" weight="3.0" />
+      <edge source="Kapila" target="Sagara" id="510" weight="14.0" />
+      <edge source="Kumbhakarṇa" target="Vibhishaṇ" id="511" weight="3.0" />
+    </edges>
+  </graph>
+</gexf>
